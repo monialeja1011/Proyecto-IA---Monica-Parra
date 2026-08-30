@@ -1,0 +1,970 @@
+Tipo_cultivo;Año;Id_municipio;Municipio;Id_cultivo;Cultivo;Ciclo;Hectareas_sembradas;Hectareas_cosechadas;Produccion_toneladas;Rendimiento_toneladas/hectareas
+Cultivos Tropicales Tradicionales;2000;76001;Cali;2030300;Café;Anual;850.0;785.0;864.0;1.1
+Cultivos Tropicales Tradicionales;2000;76020;Alcalá;2030300;Café;Anual;2183.4;1883.51;2217.0;1.18
+Cultivos Tropicales Tradicionales;2000;76036;Andalucía;2030300;Café;Anual;361.6;361.6;325.0;0.9
+Cultivos Tropicales Tradicionales;2000;76041;Ansermanuevo;2030300;Café;Anual;5621.0;4574.0;6266.0;1.37
+Cultivos Tropicales Tradicionales;2000;76054;Argelia;2030300;Café;Anual;3479.2;3188.51;4145.0;1.3
+Cultivos Tropicales Tradicionales;2000;76100;Bolívar;2030300;Café;Anual;2528.1;2010.8;2212.0;1.1
+Cultivos Tropicales Tradicionales;2000;76111;Buga;2030300;Café;Anual;941.0;934.3;1168.0;1.25
+Cultivos Tropicales Tradicionales;2000;76113;Bugalagrande;2030300;Café;Anual;1864.23;1640.23;1722.0;1.05
+Cultivos Tropicales Tradicionales;2000;76122;Caicedonia;2030300;Café;Anual;6787.0;5623.0;6185.0;1.1
+Cultivos Tropicales Tradicionales;2000;76147;Cartago;2030300;Café;Anual;1301.0;1301.0;1431.0;1.1
+Cultivos Tropicales Tradicionales;2000;76233;Dagua;2030300;Café;Anual;2061.0;1961.0;1863.0;0.95
+Cultivos Tropicales Tradicionales;2000;76126;Calima Darién;2030300;Café;Anual;959.8;809.8;810.0;1.0
+Cultivos Tropicales Tradicionales;2000;76243;El Águila;2030300;Café;Anual;6740.7;4310.7;7328.0;1.7
+Cultivos Tropicales Tradicionales;2000;76246;El Cairo;2030300;Café;Anual;4885.0;4510.0;2345.0;0.52
+Cultivos Tropicales Tradicionales;2000;76248;El Cerrito;2030300;Café;Anual;228.0;228.0;228.0;1.0
+Cultivos Tropicales Tradicionales;2000;76250;El Dovio;2030300;Café;Anual;1727.12;1655.31;1490.0;0.9
+Cultivos Tropicales Tradicionales;2000;76275;Florida;2030300;Café;Anual;1200.0;1150.0;1277.0;1.11
+Cultivos Tropicales Tradicionales;2000;76306;Ginebra;2030300;Café;Anual;1070.4;1070.4;888.0;0.83
+Cultivos Tropicales Tradicionales;2000;76318;Guacarí;2030300;Café;Anual;743.5;639.0;559.0;0.87
+Cultivos Tropicales Tradicionales;2000;76364;Jamundí;2030300;Café;Anual;1542.9;1535.8;1812.0;1.18
+Cultivos Tropicales Tradicionales;2000;76377;La Cumbre;2030300;Café;Anual;1309.8;1245.4;1158.0;0.93
+Cultivos Tropicales Tradicionales;2000;76400;La Unión;2030300;Café;Anual;887.8;805.86;654.0;0.81
+Cultivos Tropicales Tradicionales;2000;76403;La Victoria;2030300;Café;Anual;1062.0;1062.0;1274.0;1.2
+Cultivos Tropicales Tradicionales;2000;76497;Obando;2030300;Café;Anual;1706.18;1644.33;1315.0;0.8
+Cultivos Tropicales Tradicionales;2000;76520;Palmira;2030300;Café;Anual;435.0;435.0;435.0;1.0
+Cultivos Tropicales Tradicionales;2000;76563;Pradera;2030300;Café;Anual;410.6;410.0;488.0;1.19
+Cultivos Tropicales Tradicionales;2000;76606;Restrepo;2030300;Café;Anual;1705.2;1551.76;2793.0;1.8
+Cultivos Tropicales Tradicionales;2000;76616;Riofrío;2030300;Café;Anual;4177.9;3646.0;5834.0;1.6
+Cultivos Tropicales Tradicionales;2000;76622;Roldanillo;2030300;Café;Anual;1449.0;1335.0;1602.0;1.2
+Cultivos Tropicales Tradicionales;2000;76670;San Pedro;2030300;Café;Anual;624.2;587.2;470.0;0.8
+Cultivos Tropicales Tradicionales;2000;76736;Sevilla;2030300;Café;Anual;8432.0;6285.0;7542.0;1.2
+Cultivos Tropicales Tradicionales;2000;76823;Toro;2030300;Café;Anual;2149.0;2149.0;2407.0;1.12
+Cultivos Tropicales Tradicionales;2000;76828;Trujillo;2030300;Café;Anual;5105.2;5105.2;7147.0;1.4
+Cultivos Tropicales Tradicionales;2000;76834;Tuluá;2030300;Café;Anual;3880.0;3824.2;4971.0;1.3
+Cultivos Tropicales Tradicionales;2000;76845;Ulloa;2030300;Café;Anual;1422.32;1397.76;2264.0;1.62
+Cultivos Tropicales Tradicionales;2000;76863;Versalles;2030300;Café;Anual;2091.7;1996.0;798.0;0.4
+Cultivos Tropicales Tradicionales;2000;76869;Vijes;2030300;Café;Anual;877.3;862.5;776.0;0.9
+Cultivos Tropicales Tradicionales;2000;76890;Yotoco;2030300;Café;Anual;1829.0;1564.5;1565.0;1.0
+Cultivos Tropicales Tradicionales;2000;76892;Yumbo;2030300;Café;Anual;709.1;667.86;548.0;0.82
+Cultivos Tropicales Tradicionales;2001;76001;Cali;2030300;Café;Anual;873.24;828.99;746.0;0.9
+Cultivos Tropicales Tradicionales;2001;76020;Alcalá;2030300;Café;Anual;2156.92;1975.18;2232.0;1.13
+Cultivos Tropicales Tradicionales;2001;76036;Andalucía;2030300;Café;Anual;346.0;346.0;311.0;0.9
+Cultivos Tropicales Tradicionales;2001;76041;Ansermanuevo;2030300;Café;Anual;6499.3;5621.0;5621.0;1.0
+Cultivos Tropicales Tradicionales;2001;76054;Argelia;2030300;Café;Anual;3479.2;3188.5;4145.0;1.3
+Cultivos Tropicales Tradicionales;2001;76100;Bolívar;2030300;Café;Anual;2528.0;2364.66;1241.0;0.52
+Cultivos Tropicales Tradicionales;2001;76111;Buga;2030300;Café;Anual;936.0;911.0;1139.0;1.25
+Cultivos Tropicales Tradicionales;2001;76113;Bugalagrande;2030300;Café;Anual;2488.0;1768.31;1547.0;0.87
+Cultivos Tropicales Tradicionales;2001;76122;Caicedonia;2030300;Café;Anual;6690.3;5733.75;6307.0;1.1
+Cultivos Tropicales Tradicionales;2001;76147;Cartago;2030300;Café;Anual;1326.7;1268.5;581.0;0.46
+Cultivos Tropicales Tradicionales;2001;76233;Dagua;2030300;Café;Anual;2070.34;1993.69;937.0;0.47
+Cultivos Tropicales Tradicionales;2001;76126;Calima Darién;2030300;Café;Anual;803.65;759.5;608.0;0.8
+Cultivos Tropicales Tradicionales;2001;76243;El Águila;2030300;Café;Anual;6743.3;6460.95;7672.0;1.19
+Cultivos Tropicales Tradicionales;2001;76246;El Cairo;2030300;Café;Anual;4895.0;4745.8;4414.0;0.93
+Cultivos Tropicales Tradicionales;2001;76248;El Cerrito;2030300;Café;Anual;218.8;218.8;219.0;1.0
+Cultivos Tropicales Tradicionales;2001;76250;El Dovio;2030300;Café;Anual;1729.51;1697.04;1244.0;0.73
+Cultivos Tropicales Tradicionales;2001;76275;Florida;2030300;Café;Anual;1070.24;1053.44;843.0;0.8
+Cultivos Tropicales Tradicionales;2001;76306;Ginebra;2030300;Café;Anual;1071.83;1022.55;854.0;0.84
+Cultivos Tropicales Tradicionales;2001;76318;Guacarí;2030300;Café;Anual;747.6;700.87;561.0;0.8
+Cultivos Tropicales Tradicionales;2001;76364;Jamundí;2030300;Café;Anual;1548.0;1508.6;1056.0;0.7
+Cultivos Tropicales Tradicionales;2001;76377;La Cumbre;2030300;Café;Anual;1309.8;1203.8;978.0;0.81
+Cultivos Tropicales Tradicionales;2001;76400;La Unión;2030300;Café;Anual;888.3;826.93;744.0;0.9
+Cultivos Tropicales Tradicionales;2001;76403;La Victoria;2030300;Café;Anual;1060.0;1027.0;663.0;0.65
+Cultivos Tropicales Tradicionales;2001;76497;Obando;2030300;Café;Anual;1704.25;1614.91;1292.0;0.8
+Cultivos Tropicales Tradicionales;2001;76520;Palmira;2030300;Café;Anual;495.8;435.0;435.0;1.0
+Cultivos Tropicales Tradicionales;2001;76563;Pradera;2030300;Café;Anual;402.4;387.66;461.0;1.19
+Cultivos Tropicales Tradicionales;2001;76606;Restrepo;2030300;Café;Anual;1396.25;1143.44;715.0;0.63
+Cultivos Tropicales Tradicionales;2001;76616;Riofrío;2030300;Café;Anual;4176.55;3953.79;6326.0;1.6
+Cultivos Tropicales Tradicionales;2001;76622;Roldanillo;2030300;Café;Anual;1429.82;1351.29;1622.0;1.2
+Cultivos Tropicales Tradicionales;2001;76670;San Pedro;2030300;Café;Anual;624.2;592.66;474.0;0.8
+Cultivos Tropicales Tradicionales;2001;76736;Sevilla;2030300;Café;Anual;8630.7;7988.44;11983.0;1.5
+Cultivos Tropicales Tradicionales;2001;76823;Toro;2030300;Café;Anual;2134.5;1699.97;1912.0;1.12
+Cultivos Tropicales Tradicionales;2001;76828;Trujillo;2030300;Café;Anual;5106.47;4470.07;5310.0;1.19
+Cultivos Tropicales Tradicionales;2001;76834;Tuluá;2030300;Café;Anual;3876.78;3707.0;4819.0;1.3
+Cultivos Tropicales Tradicionales;2001;76845;Ulloa;2030300;Café;Anual;1479.56;1324.78;1722.0;1.3
+Cultivos Tropicales Tradicionales;2001;76863;Versalles;2030300;Café;Anual;2085.1;2015.1;1384.0;0.69
+Cultivos Tropicales Tradicionales;2001;76869;Vijes;2030300;Café;Anual;794.88;757.94;568.0;0.75
+Cultivos Tropicales Tradicionales;2001;76890;Yotoco;2030300;Café;Anual;1692.54;1576.19;1576.0;1.0
+Cultivos Tropicales Tradicionales;2001;76892;Yumbo;2030300;Café;Anual;709.5;667.48;547.0;0.82
+Cultivos Tropicales Tradicionales;2002;76001;Cali;2030300;Café;Anual;874.81;861.54;775.0;0.9
+Cultivos Tropicales Tradicionales;2002;76020;Alcalá;2030300;Café;Anual;2133.15;1555.01;2527.0;1.63
+Cultivos Tropicales Tradicionales;2002;76036;Andalucía;2030300;Café;Anual;329.94;307.79;277.0;0.9
+Cultivos Tropicales Tradicionales;2002;76041;Ansermanuevo;2030300;Café;Anual;6445.59;5698.5;5699.0;1.0
+Cultivos Tropicales Tradicionales;2002;76054;Argelia;2030300;Café;Anual;3479.2;2909.42;3782.0;1.3
+Cultivos Tropicales Tradicionales;2002;76100;Bolívar;2030300;Café;Anual;2497.38;2219.53;1165.0;0.52
+Cultivos Tropicales Tradicionales;2002;76111;Buga;2030300;Café;Anual;936.0;936.0;1123.0;1.2
+Cultivos Tropicales Tradicionales;2002;76113;Bugalagrande;2030300;Café;Anual;2486.4;1533.98;1342.0;0.87
+Cultivos Tropicales Tradicionales;2002;76122;Caicedonia;2030300;Café;Anual;6658.98;4828.95;5312.0;1.1
+Cultivos Tropicales Tradicionales;2002;76147;Cartago;2030300;Café;Anual;1328.53;1198.68;501.0;0.42
+Cultivos Tropicales Tradicionales;2002;76233;Dagua;2030300;Café;Anual;2073.21;1998.22;1399.0;0.7
+Cultivos Tropicales Tradicionales;2002;76126;Calima Darién;2030300;Café;Anual;771.04;696.92;558.0;0.8
+Cultivos Tropicales Tradicionales;2002;76243;El Águila;2030300;Café;Anual;6747.74;5893.96;7367.0;1.25
+Cultivos Tropicales Tradicionales;2002;76246;El Cairo;2030300;Café;Anual;4893.91;4441.13;1887.0;0.42
+Cultivos Tropicales Tradicionales;2002;76248;El Cerrito;2030300;Café;Anual;218.8;216.15;216.0;1.0
+Cultivos Tropicales Tradicionales;2002;76250;El Dovio;2030300;Café;Anual;1724.28;1694.44;1242.0;0.73
+Cultivos Tropicales Tradicionales;2002;76275;Florida;2030300;Café;Anual;1070.93;1029.91;824.0;0.8
+Cultivos Tropicales Tradicionales;2002;76306;Ginebra;2030300;Café;Anual;1074.96;1002.06;837.0;0.84
+Cultivos Tropicales Tradicionales;2002;76318;Guacarí;2030300;Café;Anual;747.6;659.2;527.0;0.8
+Cultivos Tropicales Tradicionales;2002;76364;Jamundí;2030300;Café;Anual;1517.3;1425.21;998.0;0.7
+Cultivos Tropicales Tradicionales;2002;76377;La Cumbre;2030300;Café;Anual;1309.8;1159.83;870.0;0.75
+Cultivos Tropicales Tradicionales;2002;76400;La Unión;2030300;Café;Anual;881.0;820.51;738.0;0.9
+Cultivos Tropicales Tradicionales;2002;76403;La Victoria;2030300;Café;Anual;961.06;899.31;580.0;0.64
+Cultivos Tropicales Tradicionales;2002;76497;Obando;2030300;Café;Anual;1643.28;1533.62;1227.0;0.8
+Cultivos Tropicales Tradicionales;2002;76520;Palmira;2030300;Café;Anual;495.94;479.27;479.0;1.0
+Cultivos Tropicales Tradicionales;2002;76563;Pradera;2030300;Café;Anual;402.4;387.66;461.0;1.19
+Cultivos Tropicales Tradicionales;2002;76606;Restrepo;2030300;Café;Anual;1416.21;1294.76;809.0;0.62
+Cultivos Tropicales Tradicionales;2002;76616;Riofrío;2030300;Café;Anual;4150.63;3812.09;4765.0;1.25
+Cultivos Tropicales Tradicionales;2002;76622;Roldanillo;2030300;Café;Anual;1378.12;1223.52;1468.0;1.2
+Cultivos Tropicales Tradicionales;2002;76670;San Pedro;2030300;Café;Anual;622.5;565.52;452.0;0.8
+Cultivos Tropicales Tradicionales;2002;76736;Sevilla;2030300;Café;Anual;8544.35;6909.54;6910.0;1.0
+Cultivos Tropicales Tradicionales;2002;76823;Toro;2030300;Café;Anual;2114.54;1509.48;1132.0;0.75
+Cultivos Tropicales Tradicionales;2002;76828;Trujillo;2030300;Café;Anual;5104.24;4520.85;5371.0;1.19
+Cultivos Tropicales Tradicionales;2002;76834;Tuluá;2030300;Café;Anual;3869.24;3472.12;3472.0;1.0
+Cultivos Tropicales Tradicionales;2002;76845;Ulloa;2030300;Café;Anual;1465.94;1197.31;1557.0;1.3
+Cultivos Tropicales Tradicionales;2002;76863;Versalles;2030300;Café;Anual;2063.6;1962.62;1335.0;0.68
+Cultivos Tropicales Tradicionales;2002;76869;Vijes;2030300;Café;Anual;794.88;758.02;569.0;0.75
+Cultivos Tropicales Tradicionales;2002;76890;Yotoco;2030300;Café;Anual;1698.11;1446.34;1446.0;1.0
+Cultivos Tropicales Tradicionales;2002;76892;Yumbo;2030300;Café;Anual;710.4;695.7;570.0;0.82
+Cultivos Tropicales Tradicionales;2003;76001;Cali;2030300;Café;Anual;875.31;855.51;770.0;0.9
+Cultivos Tropicales Tradicionales;2003;76020;Alcalá;2030300;Café;Anual;1987.04;1764.29;1676.0;0.95
+Cultivos Tropicales Tradicionales;2003;76036;Andalucía;2030300;Café;Anual;314.08;271.12;244.0;0.9
+Cultivos Tropicales Tradicionales;2003;76041;Ansermanuevo;2030300;Café;Anual;6630.01;5835.64;5836.0;1.0
+Cultivos Tropicales Tradicionales;2003;76054;Argelia;2030300;Café;Anual;3438.83;3184.51;4140.0;1.3
+Cultivos Tropicales Tradicionales;2003;76100;Bolívar;2030300;Café;Anual;2210.9;2075.46;1889.0;0.91
+Cultivos Tropicales Tradicionales;2003;76111;Buga;2030300;Café;Anual;937.47;893.64;1063.0;1.19
+Cultivos Tropicales Tradicionales;2003;76113;Bugalagrande;2030300;Café;Anual;2419.15;2241.87;2018.0;0.9
+Cultivos Tropicales Tradicionales;2003;76122;Caicedonia;2030300;Café;Anual;6700.1;6041.05;6645.0;1.1
+Cultivos Tropicales Tradicionales;2003;76147;Cartago;2030300;Café;Anual;932.87;855.19;765.0;0.89
+Cultivos Tropicales Tradicionales;2003;76233;Dagua;2030300;Café;Anual;2166.42;1915.89;1341.0;0.7
+Cultivos Tropicales Tradicionales;2003;76126;Calima Darién;2030300;Café;Anual;898.43;643.32;515.0;0.8
+Cultivos Tropicales Tradicionales;2003;76243;El Águila;2030300;Café;Anual;7605.59;6077.21;5469.0;0.9
+Cultivos Tropicales Tradicionales;2003;76246;El Cairo;2030300;Café;Anual;5434.46;4553.82;4098.0;0.9
+Cultivos Tropicales Tradicionales;2003;76248;El Cerrito;2030300;Café;Anual;205.18;195.94;196.0;1.0
+Cultivos Tropicales Tradicionales;2003;76250;El Dovio;2030300;Café;Anual;1494.7;1418.78;1064.0;0.75
+Cultivos Tropicales Tradicionales;2003;76275;Florida;2030300;Café;Anual;1147.14;1042.5;834.0;0.8
+Cultivos Tropicales Tradicionales;2003;76306;Ginebra;2030300;Café;Anual;1050.85;1001.31;851.0;0.85
+Cultivos Tropicales Tradicionales;2003;76318;Guacarí;2030300;Café;Anual;752.72;691.76;553.0;0.8
+Cultivos Tropicales Tradicionales;2003;76364;Jamundí;2030300;Café;Anual;1766.72;1386.26;970.0;0.7
+Cultivos Tropicales Tradicionales;2003;76377;La Cumbre;2030300;Café;Anual;1287.73;1246.8;935.0;0.75
+Cultivos Tropicales Tradicionales;2003;76400;La Unión;2030300;Café;Anual;692.13;660.31;594.0;0.9
+Cultivos Tropicales Tradicionales;2003;76403;La Victoria;2030300;Café;Anual;1022.59;822.34;535.0;0.65
+Cultivos Tropicales Tradicionales;2003;76497;Obando;2030300;Café;Anual;2020.87;1479.12;1183.0;0.8
+Cultivos Tropicales Tradicionales;2003;76520;Palmira;2030300;Café;Anual;426.86;410.72;353.0;0.86
+Cultivos Tropicales Tradicionales;2003;76563;Pradera;2030300;Café;Anual;454.14;391.61;313.0;0.8
+Cultivos Tropicales Tradicionales;2003;76606;Restrepo;2030300;Café;Anual;1756.8;1286.05;804.0;0.63
+Cultivos Tropicales Tradicionales;2003;76616;Riofrío;2030300;Café;Anual;4330.74;3771.57;3394.0;0.9
+Cultivos Tropicales Tradicionales;2003;76622;Roldanillo;2030300;Café;Anual;1220.57;1106.5;996.0;0.9
+Cultivos Tropicales Tradicionales;2003;76670;San Pedro;2030300;Café;Anual;540.54;510.85;409.0;0.8
+Cultivos Tropicales Tradicionales;2003;76736;Sevilla;2030300;Café;Anual;9289.8;7641.04;7641.0;1.0
+Cultivos Tropicales Tradicionales;2003;76823;Toro;2030300;Café;Anual;2720.3;1988.56;1491.0;0.75
+Cultivos Tropicales Tradicionales;2003;76828;Trujillo;2030300;Café;Anual;5216.89;4666.53;5544.0;1.19
+Cultivos Tropicales Tradicionales;2003;76834;Tuluá;2030300;Café;Anual;4050.79;3651.13;3651.0;1.0
+Cultivos Tropicales Tradicionales;2003;76845;Ulloa;2030300;Café;Anual;1470.74;1245.73;1183.0;0.95
+Cultivos Tropicales Tradicionales;2003;76863;Versalles;2030300;Café;Anual;1959.48;1881.35;1279.0;0.68
+Cultivos Tropicales Tradicionales;2003;76869;Vijes;2030300;Café;Anual;1083.68;743.88;558.0;0.75
+Cultivos Tropicales Tradicionales;2003;76890;Yotoco;2030300;Café;Anual;1884.6;1521.19;1521.0;1.0
+Cultivos Tropicales Tradicionales;2003;76892;Yumbo;2030300;Café;Anual;607.99;574.43;471.0;0.82
+Cultivos Tropicales Tradicionales;2004;76001;Cali;2030300;Café;Anual;875.31;844.23;718.0;0.85
+Cultivos Tropicales Tradicionales;2004;76020;Alcalá;2030300;Café;Anual;1895.89;1689.26;1605.0;0.95
+Cultivos Tropicales Tradicionales;2004;76036;Andalucía;2030300;Café;Anual;314.1;307.03;246.0;0.8
+Cultivos Tropicales Tradicionales;2004;76041;Ansermanuevo;2030300;Café;Anual;6625.01;6271.86;6272.0;1.0
+Cultivos Tropicales Tradicionales;2004;76054;Argelia;2030300;Café;Anual;3438.83;3310.66;3311.0;1.0
+Cultivos Tropicales Tradicionales;2004;76100;Bolívar;2030300;Café;Anual;2456.9;1919.23;1746.0;0.91
+Cultivos Tropicales Tradicionales;2004;76111;Buga;2030300;Café;Anual;960.07;902.43;1074.0;1.19
+Cultivos Tropicales Tradicionales;2004;76113;Bugalagrande;2030300;Café;Anual;2419.15;2335.34;2055.0;0.88
+Cultivos Tropicales Tradicionales;2004;76122;Caicedonia;2030300;Café;Anual;6883.0;6039.89;6795.0;1.13
+Cultivos Tropicales Tradicionales;2004;76147;Cartago;2030300;Café;Anual;912.46;846.37;762.0;0.9
+Cultivos Tropicales Tradicionales;2004;76233;Dagua;2030300;Café;Anual;2138.9;2057.87;1441.0;0.7
+Cultivos Tropicales Tradicionales;2004;76126;Calima Darién;2030300;Café;Anual;898.4;864.1;691.0;0.8
+Cultivos Tropicales Tradicionales;2004;76243;El Águila;2030300;Café;Anual;7575.59;7122.41;8013.0;1.13
+Cultivos Tropicales Tradicionales;2004;76246;El Cairo;2030300;Café;Anual;5444.46;5208.31;4687.0;0.9
+Cultivos Tropicales Tradicionales;2004;76248;El Cerrito;2030300;Café;Anual;199.18;187.88;188.0;1.0
+Cultivos Tropicales Tradicionales;2004;76250;El Dovio;2030300;Café;Anual;1474.0;1401.27;1471.0;1.05
+Cultivos Tropicales Tradicionales;2004;76275;Florida;2030300;Café;Anual;1147.0;1120.31;896.0;0.8
+Cultivos Tropicales Tradicionales;2004;76306;Ginebra;2030300;Café;Anual;1050.8;1016.97;864.0;0.85
+Cultivos Tropicales Tradicionales;2004;76318;Guacarí;2030300;Café;Anual;752.7;725.95;690.0;0.95
+Cultivos Tropicales Tradicionales;2004;76364;Jamundí;2030300;Café;Anual;1666.72;1558.83;935.0;0.6
+Cultivos Tropicales Tradicionales;2004;76377;La Cumbre;2030300;Café;Anual;1207.73;1162.89;1308.0;1.12
+Cultivos Tropicales Tradicionales;2004;76400;La Unión;2030300;Café;Anual;637.36;575.36;575.0;1.0
+Cultivos Tropicales Tradicionales;2004;76403;La Victoria;2030300;Café;Anual;999.01;944.5;945.0;1.0
+Cultivos Tropicales Tradicionales;2004;76497;Obando;2030300;Café;Anual;1976.17;1881.14;1411.0;0.75
+Cultivos Tropicales Tradicionales;2004;76520;Palmira;2030300;Café;Anual;426.8;410.04;410.0;1.0
+Cultivos Tropicales Tradicionales;2004;76563;Pradera;2030300;Café;Anual;454.1;433.79;347.0;0.8
+Cultivos Tropicales Tradicionales;2004;76606;Restrepo;2030300;Café;Anual;1696.8;1641.58;1642.0;1.0
+Cultivos Tropicales Tradicionales;2004;76616;Riofrío;2030300;Café;Anual;4303.04;4058.84;3653.0;0.9
+Cultivos Tropicales Tradicionales;2004;76622;Roldanillo;2030300;Café;Anual;1182.97;1094.8;615.0;0.56
+Cultivos Tropicales Tradicionales;2004;76670;San Pedro;2030300;Café;Anual;627.5;520.78;417.0;0.8
+Cultivos Tropicales Tradicionales;2004;76736;Sevilla;2030300;Café;Anual;9432.0;8385.95;15724.0;1.88
+Cultivos Tropicales Tradicionales;2004;76823;Toro;2030300;Café;Anual;2805.8;2592.28;1944.0;0.75
+Cultivos Tropicales Tradicionales;2004;76828;Trujillo;2030300;Café;Anual;5188.8;4877.41;4877.0;1.0
+Cultivos Tropicales Tradicionales;2004;76834;Tuluá;2030300;Café;Anual;3932.79;3775.46;3700.0;0.98
+Cultivos Tropicales Tradicionales;2004;76845;Ulloa;2030300;Café;Anual;1438.74;1104.65;1359.0;1.23
+Cultivos Tropicales Tradicionales;2004;76863;Versalles;2030300;Café;Anual;1940.08;1869.05;1284.0;0.69
+Cultivos Tropicales Tradicionales;2004;76869;Vijes;2030300;Café;Anual;1083.7;1050.39;788.0;0.75
+Cultivos Tropicales Tradicionales;2004;76890;Yotoco;2030300;Café;Anual;1690.0;1609.04;1770.0;1.1
+Cultivos Tropicales Tradicionales;2004;76892;Yumbo;2030300;Café;Anual;608.0;583.64;479.0;0.82
+Cultivos Tropicales Tradicionales;2005;76001;Cali;2030300;Café;Anual;905.24;905.24;276.0;0.3
+Cultivos Tropicales Tradicionales;2005;76020;Alcalá;2030300;Café;Anual;1920.82;1781.39;3019.0;1.69
+Cultivos Tropicales Tradicionales;2005;76036;Andalucía;2030300;Café;Anual;325.13;317.89;207.0;0.65
+Cultivos Tropicales Tradicionales;2005;76041;Ansermanuevo;2030300;Café;Anual;6686.37;6272.38;6327.0;1.01
+Cultivos Tropicales Tradicionales;2005;76054;Argelia;2030300;Café;Anual;3332.59;3226.11;1739.0;0.54
+Cultivos Tropicales Tradicionales;2005;76100;Bolívar;2030300;Café;Anual;2066.14;1981.66;1182.0;0.6
+Cultivos Tropicales Tradicionales;2005;76111;Buga;2030300;Café;Anual;986.87;955.63;767.0;0.8
+Cultivos Tropicales Tradicionales;2005;76113;Bugalagrande;2030300;Café;Anual;2416.79;2314.65;1424.0;0.62
+Cultivos Tropicales Tradicionales;2005;76122;Caicedonia;2030300;Café;Anual;6617.89;6030.31;7719.0;1.28
+Cultivos Tropicales Tradicionales;2005;76147;Cartago;2030300;Café;Anual;937.15;918.44;404.0;0.44
+Cultivos Tropicales Tradicionales;2005;76233;Dagua;2030300;Café;Anual;2241.79;2186.8;867.0;0.4
+Cultivos Tropicales Tradicionales;2005;76126;Calima Darién;2030300;Café;Anual;903.43;867.18;520.0;0.6
+Cultivos Tropicales Tradicionales;2005;76243;El Águila;2030300;Café;Anual;7654.9;7142.13;7239.0;1.01
+Cultivos Tropicales Tradicionales;2005;76246;El Cairo;2030300;Café;Anual;5492.05;5323.96;3035.0;0.57
+Cultivos Tropicales Tradicionales;2005;76248;El Cerrito;2030300;Café;Anual;192.53;186.2;94.0;0.5
+Cultivos Tropicales Tradicionales;2005;76250;El Dovio;2030300;Café;Anual;1498.15;1474.16;502.0;0.34
+Cultivos Tropicales Tradicionales;2005;76275;Florida;2030300;Café;Anual;1231.27;1208.46;359.0;0.3
+Cultivos Tropicales Tradicionales;2005;76306;Ginebra;2030300;Café;Anual;1048.15;1023.01;501.0;0.49
+Cultivos Tropicales Tradicionales;2005;76318;Guacarí;2030300;Café;Anual;778.49;752.42;674.0;0.9
+Cultivos Tropicales Tradicionales;2005;76364;Jamundí;2030300;Café;Anual;1852.13;1709.39;767.0;0.45
+Cultivos Tropicales Tradicionales;2005;76377;La Cumbre;2030300;Café;Anual;1261.13;1229.44;439.0;0.36
+Cultivos Tropicales Tradicionales;2005;76400;La Unión;2030300;Café;Anual;664.2;639.36;611.0;0.96
+Cultivos Tropicales Tradicionales;2005;76403;La Victoria;2030300;Café;Anual;936.56;912.2;209.0;0.23
+Cultivos Tropicales Tradicionales;2005;76497;Obando;2030300;Café;Anual;2006.64;1965.9;539.0;0.27
+Cultivos Tropicales Tradicionales;2005;76520;Palmira;2030300;Café;Anual;436.76;434.84;209.0;0.48
+Cultivos Tropicales Tradicionales;2005;76563;Pradera;2030300;Café;Anual;480.15;471.29;86.0;0.18
+Cultivos Tropicales Tradicionales;2005;76606;Restrepo;2030300;Café;Anual;1766.19;1733.08;815.0;0.47
+Cultivos Tropicales Tradicionales;2005;76616;Riofrío;2030300;Café;Anual;4251.87;4066.03;3780.0;0.93
+Cultivos Tropicales Tradicionales;2005;76622;Roldanillo;2030300;Café;Anual;1176.47;1130.23;723.0;0.64
+Cultivos Tropicales Tradicionales;2005;76670;San Pedro;2030300;Café;Anual;559.73;549.95;350.0;0.64
+Cultivos Tropicales Tradicionales;2005;76736;Sevilla;2030300;Café;Anual;8896.2;8076.19;10030.0;1.24
+Cultivos Tropicales Tradicionales;2005;76823;Toro;2030300;Café;Anual;2843.86;2725.47;1964.0;0.72
+Cultivos Tropicales Tradicionales;2005;76828;Trujillo;2030300;Café;Anual;5126.79;4826.06;4890.0;1.01
+Cultivos Tropicales Tradicionales;2005;76834;Tuluá;2030300;Café;Anual;4301.56;4127.25;2249.0;0.54
+Cultivos Tropicales Tradicionales;2005;76845;Ulloa;2030300;Café;Anual;1302.54;1213.7;1355.0;1.12
+Cultivos Tropicales Tradicionales;2005;76863;Versalles;2030300;Café;Anual;1998.26;1946.5;1187.0;0.61
+Cultivos Tropicales Tradicionales;2005;76869;Vijes;2030300;Café;Anual;1069.13;1054.46;389.0;0.37
+Cultivos Tropicales Tradicionales;2005;76890;Yotoco;2030300;Café;Anual;1905.43;1819.64;1466.0;0.81
+Cultivos Tropicales Tradicionales;2005;76892;Yumbo;2030300;Café;Anual;623.44;605.07;196.0;0.32
+Cultivos Tropicales Tradicionales;2006;76001;Cali;2030300;Café;Anual;631.46;568.2;271.0;0.48
+Cultivos Tropicales Tradicionales;2006;76020;Alcalá;2030300;Café;Anual;1638.96;1475.47;1841.0;1.25
+Cultivos Tropicales Tradicionales;2006;76036;Andalucía;2030300;Café;Anual;324.92;294.65;322.0;1.09
+Cultivos Tropicales Tradicionales;2006;76041;Ansermanuevo;2030300;Café;Anual;6066.8;5449.22;7202.0;1.32
+Cultivos Tropicales Tradicionales;2006;76054;Argelia;2030300;Café;Anual;3365.34;3037.2;2375.0;0.78
+Cultivos Tropicales Tradicionales;2006;76100;Bolívar;2030300;Café;Anual;2070.71;1883.43;1256.0;0.67
+Cultivos Tropicales Tradicionales;2006;76111;Buga;2030300;Café;Anual;562.76;513.41;591.0;1.15
+Cultivos Tropicales Tradicionales;2006;76113;Bugalagrande;2030300;Café;Anual;2323.57;2167.96;1878.0;0.87
+Cultivos Tropicales Tradicionales;2006;76122;Caicedonia;2030300;Café;Anual;6365.04;5728.0;6374.0;1.11
+Cultivos Tropicales Tradicionales;2006;76147;Cartago;2030300;Café;Anual;883.64;794.6;511.0;0.64
+Cultivos Tropicales Tradicionales;2006;76233;Dagua;2030300;Café;Anual;1742.1;1566.9;1078.0;0.69
+Cultivos Tropicales Tradicionales;2006;76126;Calima Darién;2030300;Café;Anual;586.08;530.16;315.0;0.59
+Cultivos Tropicales Tradicionales;2006;76243;El Águila;2030300;Café;Anual;7572.62;6814.5;6610.0;0.97
+Cultivos Tropicales Tradicionales;2006;76246;El Cairo;2030300;Café;Anual;5192.06;4672.3;3670.0;0.79
+Cultivos Tropicales Tradicionales;2006;76248;El Cerrito;2030300;Café;Anual;146.06;134.92;77.0;0.57
+Cultivos Tropicales Tradicionales;2006;76250;El Dovio;2030300;Café;Anual;1233.42;1108.5;1232.0;1.11
+Cultivos Tropicales Tradicionales;2006;76275;Florida;2030300;Café;Anual;911.67;879.55;559.0;0.64
+Cultivos Tropicales Tradicionales;2006;76306;Ginebra;2030300;Café;Anual;986.91;887.67;587.0;0.66
+Cultivos Tropicales Tradicionales;2006;76318;Guacarí;2030300;Café;Anual;586.01;530.63;527.0;0.99
+Cultivos Tropicales Tradicionales;2006;76364;Jamundí;2030300;Café;Anual;1606.72;1445.4;1694.0;1.17
+Cultivos Tropicales Tradicionales;2006;76377;La Cumbre;2030300;Café;Anual;912.31;819.9;907.0;1.11
+Cultivos Tropicales Tradicionales;2006;76400;La Unión;2030300;Café;Anual;603.84;542.7;468.0;0.86
+Cultivos Tropicales Tradicionales;2006;76403;La Victoria;2030300;Café;Anual;781.89;702.9;664.0;0.94
+Cultivos Tropicales Tradicionales;2006;76497;Obando;2030300;Café;Anual;1904.49;942.7;453.0;0.48
+Cultivos Tropicales Tradicionales;2006;76520;Palmira;2030300;Café;Anual;333.48;306.36;303.0;0.99
+Cultivos Tropicales Tradicionales;2006;76563;Pradera;2030300;Café;Anual;343.76;309.2;172.0;0.56
+Cultivos Tropicales Tradicionales;2006;76606;Restrepo;2030300;Café;Anual;1375.5;1236.6;1092.0;0.88
+Cultivos Tropicales Tradicionales;2006;76616;Riofrío;2030300;Café;Anual;4157.56;3740.4;3154.0;0.84
+Cultivos Tropicales Tradicionales;2006;76622;Roldanillo;2030300;Café;Anual;996.82;896.4;606.0;0.68
+Cultivos Tropicales Tradicionales;2006;76670;San Pedro;2030300;Café;Anual;419.09;383.29;301.0;0.79
+Cultivos Tropicales Tradicionales;2006;76736;Sevilla;2030300;Café;Anual;8424.95;7581.6;8273.0;1.09
+Cultivos Tropicales Tradicionales;2006;76823;Toro;2030300;Café;Anual;2283.73;2053.8;2827.0;1.38
+Cultivos Tropicales Tradicionales;2006;76828;Trujillo;2030300;Café;Anual;4967.54;4470.3;4430.0;0.99
+Cultivos Tropicales Tradicionales;2006;76834;Tuluá;2030300;Café;Anual;4220.35;3797.1;3521.0;0.93
+Cultivos Tropicales Tradicionales;2006;76845;Ulloa;2030300;Café;Anual;1065.52;959.83;1053.0;1.1
+Cultivos Tropicales Tradicionales;2006;76863;Versalles;2030300;Café;Anual;1666.06;1498.5;968.0;0.65
+Cultivos Tropicales Tradicionales;2006;76869;Vijes;2030300;Café;Anual;911.98;819.3;710.0;0.87
+Cultivos Tropicales Tradicionales;2006;76890;Yotoco;2030300;Café;Anual;1778.21;1608.16;1604.0;1.0
+Cultivos Tropicales Tradicionales;2006;76892;Yumbo;2030300;Café;Anual;402.43;360.9;201.0;0.56
+Cultivos Tropicales Tradicionales;2007;76001;Cali;2030300;Café;Anual;628.3;460.0;218.0;0.47
+Cultivos Tropicales Tradicionales;2007;76020;Alcalá;2030300;Café;Anual;1637.5;1452.6;2905.0;2.0
+Cultivos Tropicales Tradicionales;2007;76036;Andalucía;2030300;Café;Anual;327.0;264.9;344.0;1.3
+Cultivos Tropicales Tradicionales;2007;76041;Ansermanuevo;2030300;Café;Anual;6159.3;5992.4;6602.0;1.1
+Cultivos Tropicales Tradicionales;2007;76054;Argelia;2030300;Café;Anual;3369.7;3365.0;3365.0;1.0
+Cultivos Tropicales Tradicionales;2007;76100;Bolívar;2030300;Café;Anual;2078.0;2050.0;1076.0;0.52
+Cultivos Tropicales Tradicionales;2007;76111;Buga;2030300;Café;Anual;593.5;470.0;559.0;1.19
+Cultivos Tropicales Tradicionales;2007;76113;Bugalagrande;2030300;Café;Anual;2350.3;2323.0;2044.0;0.88
+Cultivos Tropicales Tradicionales;2007;76122;Caicedonia;2030300;Café;Anual;6382.2;5933.0;6675.0;1.13
+Cultivos Tropicales Tradicionales;2007;76147;Cartago;2030300;Café;Anual;748.6;695.0;300.0;0.43
+Cultivos Tropicales Tradicionales;2007;76233;Dagua;2030300;Café;Anual;1764.4;1600.0;1280.0;0.8
+Cultivos Tropicales Tradicionales;2007;76126;Calima Darién;2030300;Café;Anual;633.4;600.0;300.0;0.5
+Cultivos Tropicales Tradicionales;2007;76243;El Águila;2030300;Café;Anual;7602.5;6814.0;6610.0;0.97
+Cultivos Tropicales Tradicionales;2007;76246;El Cairo;2030300;Café;Anual;5026.7;4700.0;3596.0;0.77
+Cultivos Tropicales Tradicionales;2007;76248;El Cerrito;2030300;Café;Anual;149.1;134.0;76.0;0.57
+Cultivos Tropicales Tradicionales;2007;76250;El Dovio;2030300;Café;Anual;1224.6;1160.0;1288.0;1.11
+Cultivos Tropicales Tradicionales;2007;76275;Florida;2030300;Café;Anual;907.5;875.0;263.0;0.3
+Cultivos Tropicales Tradicionales;2007;76306;Ginebra;2030300;Café;Anual;978.7;887.7;587.0;0.66
+Cultivos Tropicales Tradicionales;2007;76318;Guacarí;2030300;Café;Anual;631.2;590.0;531.0;0.9
+Cultivos Tropicales Tradicionales;2007;76364;Jamundí;2030300;Café;Anual;1630.6;1620.0;1620.0;1.0
+Cultivos Tropicales Tradicionales;2007;76377;La Cumbre;2030300;Café;Anual;906.5;756.0;756.0;1.0
+Cultivos Tropicales Tradicionales;2007;76400;La Unión;2030300;Café;Anual;610.9;542.0;466.0;0.86
+Cultivos Tropicales Tradicionales;2007;76403;La Victoria;2030300;Café;Anual;767.4;700.0;665.0;0.95
+Cultivos Tropicales Tradicionales;2007;76497;Obando;2030300;Café;Anual;1796.6;1718.0;1289.0;0.75
+Cultivos Tropicales Tradicionales;2007;76520;Palmira;2030300;Café;Anual;304.5;300.0;288.0;0.96
+Cultivos Tropicales Tradicionales;2007;76563;Pradera;2030300;Café;Anual;336.6;309.2;172.0;0.56
+Cultivos Tropicales Tradicionales;2007;76606;Restrepo;2030300;Café;Anual;1384.6;1196.0;1280.0;1.07
+Cultivos Tropicales Tradicionales;2007;76616;Riofrío;2030300;Café;Anual;4093.3;4000.0;3600.0;0.9
+Cultivos Tropicales Tradicionales;2007;76622;Roldanillo;2030300;Café;Anual;1004.0;993.0;596.0;0.6
+Cultivos Tropicales Tradicionales;2007;76670;San Pedro;2030300;Café;Anual;428.5;390.0;312.0;0.8
+Cultivos Tropicales Tradicionales;2007;76736;Sevilla;2030300;Café;Anual;8743.5;7600.0;8284.0;1.09
+Cultivos Tropicales Tradicionales;2007;76823;Toro;2030300;Café;Anual;2314.7;2220.0;3330.0;1.5
+Cultivos Tropicales Tradicionales;2007;76828;Trujillo;2030300;Café;Anual;4974.0;4800.0;7200.0;1.5
+Cultivos Tropicales Tradicionales;2007;76834;Tuluá;2030300;Café;Anual;4244.4;3900.0;3900.0;1.0
+Cultivos Tropicales Tradicionales;2007;76845;Ulloa;2030300;Café;Anual;1056.3;1000.0;800.0;0.8
+Cultivos Tropicales Tradicionales;2007;76863;Versalles;2030300;Café;Anual;1666.3;1384.0;637.0;0.46
+Cultivos Tropicales Tradicionales;2007;76869;Vijes;2030300;Café;Anual;875.5;870.0;870.0;1.0
+Cultivos Tropicales Tradicionales;2007;76890;Yotoco;2030300;Café;Anual;1773.0;1633.0;2776.0;1.7
+Cultivos Tropicales Tradicionales;2007;76892;Yumbo;2030300;Café;Anual;374.7;370.0;207.0;0.56
+Cultivos Tropicales Tradicionales;2008;76001;Cali;2030300;Café;Anual;611.0;389.0;249.0;0.64
+Cultivos Tropicales Tradicionales;2008;76020;Alcalá;2030300;Café;Anual;1616.0;1488.0;1161.0;0.78
+Cultivos Tropicales Tradicionales;2008;76036;Andalucía;2030300;Café;Anual;311.0;173.0;277.0;1.6
+Cultivos Tropicales Tradicionales;2008;76041;Ansermanuevo;2030300;Café;Anual;6115.0;5709.0;5709.0;1.0
+Cultivos Tropicales Tradicionales;2008;76054;Argelia;2030300;Café;Anual;3221.0;3221.0;3124.0;0.97
+Cultivos Tropicales Tradicionales;2008;76100;Bolívar;2030300;Café;Anual;1880.0;1643.0;1413.0;0.86
+Cultivos Tropicales Tradicionales;2008;76111;Buga;2030300;Café;Anual;533.0;458.0;481.0;1.05
+Cultivos Tropicales Tradicionales;2008;76113;Bugalagrande;2030300;Café;Anual;2292.0;2239.0;1791.0;0.8
+Cultivos Tropicales Tradicionales;2008;76122;Caicedonia;2030300;Café;Anual;5668.0;5434.0;3749.0;0.69
+Cultivos Tropicales Tradicionales;2008;76126;Calima Darién;2030300;Café;Anual;606.0;598.0;371.0;0.62
+Cultivos Tropicales Tradicionales;2008;76147;Cartago;2030300;Café;Anual;598.0;598.0;258.0;0.43
+Cultivos Tropicales Tradicionales;2008;76233;Dagua;2030300;Café;Anual;1509.0;1479.0;1183.0;0.8
+Cultivos Tropicales Tradicionales;2008;76243;El Águila;2030300;Café;Anual;6451.0;4116.0;5886.0;1.43
+Cultivos Tropicales Tradicionales;2008;76246;El Cairo;2030300;Café;Anual;4503.0;4389.0;5486.0;1.25
+Cultivos Tropicales Tradicionales;2008;76248;El Cerrito;2030300;Café;Anual;148.0;139.0;79.0;0.57
+Cultivos Tropicales Tradicionales;2008;76250;El Dovio;2030300;Café;Anual;1015.0;1001.0;440.0;0.44
+Cultivos Tropicales Tradicionales;2008;76275;Florida;2030300;Café;Anual;827.0;827.0;265.0;0.32
+Cultivos Tropicales Tradicionales;2008;76306;Ginebra;2030300;Café;Anual;897.0;814.0;538.0;0.66
+Cultivos Tropicales Tradicionales;2008;76318;Guacarí;2030300;Café;Anual;559.0;530.0;477.0;0.9
+Cultivos Tropicales Tradicionales;2008;76364;Jamundí;2030300;Café;Anual;1527.0;1527.0;1680.0;1.1
+Cultivos Tropicales Tradicionales;2008;76377;La Cumbre;2030300;Café;Anual;808.0;767.0;690.0;0.9
+Cultivos Tropicales Tradicionales;2008;76400;La Unión;2030300;Café;Anual;573.0;473.0;345.0;0.73
+Cultivos Tropicales Tradicionales;2008;76403;La Victoria;2030300;Café;Anual;708.0;605.0;726.0;1.2
+Cultivos Tropicales Tradicionales;2008;76497;Obando;2030300;Café;Anual;1584.0;1422.0;441.0;0.31
+Cultivos Tropicales Tradicionales;2008;76520;Palmira;2030300;Café;Anual;279.0;275.0;264.0;0.96
+Cultivos Tropicales Tradicionales;2008;76563;Pradera;2030300;Café;Anual;359.0;331.0;187.0;0.56
+Cultivos Tropicales Tradicionales;2008;76606;Restrepo;2030300;Café;Anual;1199.0;1160.0;1253.0;1.08
+Cultivos Tropicales Tradicionales;2008;76616;Riofrío;2030300;Café;Anual;3968.0;3965.0;3410.0;0.86
+Cultivos Tropicales Tradicionales;2008;76622;Roldanillo;2030300;Café;Anual;940.0;792.0;341.0;0.43
+Cultivos Tropicales Tradicionales;2008;76670;San Pedro;2030300;Café;Anual;421.0;421.0;337.0;0.8
+Cultivos Tropicales Tradicionales;2008;76736;Sevilla;2030300;Café;Anual;7799.0;6750.0;7358.0;1.09
+Cultivos Tropicales Tradicionales;2008;76823;Toro;2030300;Café;Anual;2199.0;2106.0;1938.0;0.92
+Cultivos Tropicales Tradicionales;2008;76828;Trujillo;2030300;Café;Anual;5017.0;4771.0;4771.0;1.0
+Cultivos Tropicales Tradicionales;2008;76834;Tuluá;2030300;Café;Anual;3972.0;3972.0;4369.0;1.1
+Cultivos Tropicales Tradicionales;2008;76845;Ulloa;2030300;Café;Anual;995.0;851.0;1064.0;1.25
+Cultivos Tropicales Tradicionales;2008;76863;Versalles;2030300;Café;Anual;1599.0;1559.0;717.0;0.46
+Cultivos Tropicales Tradicionales;2008;76869;Vijes;2030300;Café;Anual;842.0;822.0;822.0;1.0
+Cultivos Tropicales Tradicionales;2008;76890;Yotoco;2030300;Café;Anual;1744.0;1380.0;828.0;0.6
+Cultivos Tropicales Tradicionales;2008;76892;Yumbo;2030300;Café;Anual;339.0;339.0;203.0;0.6
+Cultivos Tropicales Tradicionales;2009;76001;Cali;2030300;Café;Anual;649.5;413.5;265.0;0.64
+Cultivos Tropicales Tradicionales;2009;76020;Alcalá;2030300;Café;Anual;1600.8;1562.1;1093.0;0.7
+Cultivos Tropicales Tradicionales;2009;76036;Andalucía;2030300;Café;Anual;312.2;173.6;278.0;1.6
+Cultivos Tropicales Tradicionales;2009;76041;Ansermanuevo;2030300;Café;Anual;5878.8;5253.7;2627.0;0.5
+Cultivos Tropicales Tradicionales;2009;76054;Argelia;2030300;Café;Anual;3169.4;1983.2;992.0;0.5
+Cultivos Tropicales Tradicionales;2009;76100;Bolívar;2030300;Café;Anual;1889.8;1651.5;1420.0;0.86
+Cultivos Tropicales Tradicionales;2009;76111;Buga;2030300;Café;Anual;569.4;489.3;303.0;0.62
+Cultivos Tropicales Tradicionales;2009;76113;Bugalagrande;2030300;Café;Anual;2218.7;2218.7;2219.0;1.0
+Cultivos Tropicales Tradicionales;2009;76122;Caicedonia;2030300;Café;Anual;5609.0;4773.7;5967.0;1.25
+Cultivos Tropicales Tradicionales;2009;76126;Calima Darién;2030300;Café;Anual;624.2;576.8;346.0;0.6
+Cultivos Tropicales Tradicionales;2009;76147;Cartago;2030300;Café;Anual;494.2;451.2;171.0;0.38
+Cultivos Tropicales Tradicionales;2009;76233;Dagua;2030300;Café;Anual;1557.7;1525.7;1221.0;0.8
+Cultivos Tropicales Tradicionales;2009;76243;El Águila;2030300;Café;Anual;6175.5;4440.2;6305.0;1.42
+Cultivos Tropicales Tradicionales;2009;76246;El Cairo;2030300;Café;Anual;4316.3;4207.1;5259.0;1.25
+Cultivos Tropicales Tradicionales;2009;76248;El Cerrito;2030300;Café;Anual;156.3;145.7;83.0;0.57
+Cultivos Tropicales Tradicionales;2009;76250;El Dovio;2030300;Café;Anual;993.6;793.0;872.0;1.1
+Cultivos Tropicales Tradicionales;2009;76275;Florida;2030300;Café;Anual;890.9;883.4;283.0;0.32
+Cultivos Tropicales Tradicionales;2009;76306;Ginebra;2030300;Café;Anual;918.3;870.2;575.0;0.66
+Cultivos Tropicales Tradicionales;2009;76318;Guacarí;2030300;Café;Anual;583.2;537.9;484.0;0.9
+Cultivos Tropicales Tradicionales;2009;76364;Jamundí;2030300;Café;Anual;1578.4;1567.4;1332.0;0.85
+Cultivos Tropicales Tradicionales;2009;76377;La Cumbre;2030300;Café;Anual;842.6;738.2;738.0;1.0
+Cultivos Tropicales Tradicionales;2009;76400;La Unión;2030300;Café;Anual;758.2;723.8;528.0;0.73
+Cultivos Tropicales Tradicionales;2009;76403;La Victoria;2030300;Café;Anual;765.6;746.1;933.0;1.25
+Cultivos Tropicales Tradicionales;2009;76497;Obando;2030300;Café;Anual;1500.2;1130.1;373.0;0.33
+Cultivos Tropicales Tradicionales;2009;76520;Palmira;2030300;Café;Anual;279.2;275.2;275.0;1.0
+Cultivos Tropicales Tradicionales;2009;76563;Pradera;2030300;Café;Anual;397.5;365.4;206.0;0.56
+Cultivos Tropicales Tradicionales;2009;76606;Restrepo;2030300;Café;Anual;1237.2;1199.9;1296.0;1.08
+Cultivos Tropicales Tradicionales;2009;76616;Riofrío;2030300;Café;Anual;3893.4;3860.9;3320.0;0.86
+Cultivos Tropicales Tradicionales;2009;76622;Roldanillo;2030300;Café;Anual;934.6;790.4;395.0;0.5
+Cultivos Tropicales Tradicionales;2009;76670;San Pedro;2030300;Café;Anual;422.8;417.8;334.0;0.8
+Cultivos Tropicales Tradicionales;2009;76736;Sevilla;2030300;Café;Anual;7873.0;7011.1;8764.0;1.25
+Cultivos Tropicales Tradicionales;2009;76823;Toro;2030300;Café;Anual;1913.4;1832.5;1686.0;0.92
+Cultivos Tropicales Tradicionales;2009;76828;Trujillo;2030300;Café;Anual;4979.9;4735.7;4120.0;0.87
+Cultivos Tropicales Tradicionales;2009;76834;Tuluá;2030300;Café;Anual;3916.0;3916.0;5091.0;1.3
+Cultivos Tropicales Tradicionales;2009;76845;Ulloa;2030300;Café;Anual;939.9;803.9;1005.0;1.25
+Cultivos Tropicales Tradicionales;2009;76863;Versalles;2030300;Café;Anual;1681.7;1639.6;754.0;0.46
+Cultivos Tropicales Tradicionales;2009;76869;Vijes;2030300;Café;Anual;817.0;729.7;657.0;0.9
+Cultivos Tropicales Tradicionales;2009;76890;Yotoco;2030300;Café;Anual;1699.0;1217.6;1035.0;0.85
+Cultivos Tropicales Tradicionales;2009;76892;Yumbo;2030300;Café;Anual;349.0;349.0;209.0;0.6
+Cultivos Tropicales Tradicionales;2010;76001;Cali;2030300;Café;Anual;609.5;410.0;287.0;0.7
+Cultivos Tropicales Tradicionales;2010;76020;Alcalá;2030300;Café;Anual;1596.0;1459.0;2918.0;2.0
+Cultivos Tropicales Tradicionales;2010;76036;Andalucía;2030300;Café;Anual;312.2;282.2;452.0;1.6
+Cultivos Tropicales Tradicionales;2010;76041;Ansermanuevo;2030300;Café;Anual;6099.0;4787.0;5361.0;1.12
+Cultivos Tropicales Tradicionales;2010;76054;Argelia;2030300;Café;Anual;3169.4;1983.2;992.0;0.5
+Cultivos Tropicales Tradicionales;2010;76100;Bolívar;2030300;Café;Anual;1903.0;1848.0;1589.0;0.86
+Cultivos Tropicales Tradicionales;2010;76111;Buga;2030300;Café;Anual;579.4;560.0;340.0;0.61
+Cultivos Tropicales Tradicionales;2010;76113;Bugalagrande;2030300;Café;Anual;2480.0;2455.0;1964.0;0.8
+Cultivos Tropicales Tradicionales;2010;76122;Caicedonia;2030300;Café;Anual;5630.0;4800.0;5400.0;1.12
+Cultivos Tropicales Tradicionales;2010;76126;Calima Darién;2030300;Café;Anual;895.0;856.0;428.0;0.5
+Cultivos Tropicales Tradicionales;2010;76147;Cartago;2030300;Café;Anual;449.2;399.2;420.0;1.05
+Cultivos Tropicales Tradicionales;2010;76233;Dagua;2030300;Café;Anual;1657.0;1627.0;1302.0;0.8
+Cultivos Tropicales Tradicionales;2010;76243;El Águila;2030300;Café;Anual;6175.5;4440.2;6268.0;1.41
+Cultivos Tropicales Tradicionales;2010;76246;El Cairo;2030300;Café;Anual;4316.0;4207.1;5259.0;1.25
+Cultivos Tropicales Tradicionales;2010;76248;El Cerrito;2030300;Café;Anual;156.0;133.0;80.0;0.6
+Cultivos Tropicales Tradicionales;2010;76250;El Dovio;2030300;Café;Anual;1184.2;1004.2;1105.0;1.1
+Cultivos Tropicales Tradicionales;2010;76275;Florida;2030300;Café;Anual;922.0;902.0;4510.0;5.0
+Cultivos Tropicales Tradicionales;2010;76306;Ginebra;2030300;Café;Anual;953.3;870.2;574.0;0.66
+Cultivos Tropicales Tradicionales;2010;76318;Guacarí;2030300;Café;Anual;593.0;583.0;525.0;0.9
+Cultivos Tropicales Tradicionales;2010;76364;Jamundí;2030300;Café;Anual;1649.0;1620.0;1296.0;0.8
+Cultivos Tropicales Tradicionales;2010;76377;La Cumbre;2030300;Café;Anual;862.0;808.0;808.0;1.0
+Cultivos Tropicales Tradicionales;2010;76400;La Unión;2030300;Café;Anual;547.0;518.4;378.0;0.73
+Cultivos Tropicales Tradicionales;2010;76403;La Victoria;2030300;Café;Anual;765.6;765.6;957.0;1.25
+Cultivos Tropicales Tradicionales;2010;76497;Obando;2030300;Café;Anual;1511.8;1361.8;1049.0;0.77
+Cultivos Tropicales Tradicionales;2010;76520;Palmira;2030300;Café;Anual;279.0;279.0;279.0;1.0
+Cultivos Tropicales Tradicionales;2010;76563;Pradera;2030300;Café;Anual;397.5;365.4;208.0;0.57
+Cultivos Tropicales Tradicionales;2010;76606;Restrepo;2030300;Café;Anual;1256.5;1150.0;1242.0;1.08
+Cultivos Tropicales Tradicionales;2010;76616;Riofrío;2030300;Café;Anual;3893.4;3843.4;3313.0;0.86
+Cultivos Tropicales Tradicionales;2010;76622;Roldanillo;2030300;Café;Anual;994.6;904.6;633.0;0.7
+Cultivos Tropicales Tradicionales;2010;76670;San Pedro;2030300;Café;Anual;427.8;422.8;338.0;0.8
+Cultivos Tropicales Tradicionales;2010;76736;Sevilla;2030300;Café;Anual;7983.0;5913.0;5913.0;1.0
+Cultivos Tropicales Tradicionales;2010;76823;Toro;2030300;Café;Anual;1963.0;1903.0;1751.0;0.92
+Cultivos Tropicales Tradicionales;2010;76828;Trujillo;2030300;Café;Anual;5011.9;4735.7;4142.0;0.87
+Cultivos Tropicales Tradicionales;2010;76834;Tuluá;2030300;Café;Anual;3916.0;3900.0;5070.0;1.3
+Cultivos Tropicales Tradicionales;2010;76845;Ulloa;2030300;Café;Anual;1232.7;1165.7;1974.0;1.69
+Cultivos Tropicales Tradicionales;2010;76863;Versalles;2030300;Café;Anual;1606.0;1466.0;293.0;0.2
+Cultivos Tropicales Tradicionales;2010;76869;Vijes;2030300;Café;Anual;826.0;787.0;944.0;1.2
+Cultivos Tropicales Tradicionales;2010;76890;Yotoco;2030300;Café;Anual;1801.0;1707.0;2359.0;1.38
+Cultivos Tropicales Tradicionales;2010;76892;Yumbo;2030300;Café;Anual;354.0;334.0;200.0;0.6
+Cultivos Tropicales Tradicionales;2011;76001;Cali;2030300;Café;Anual;652.5;544.1;381.0;0.7
+Cultivos Tropicales Tradicionales;2011;76020;Alcalá;2030300;Café;Anual;1615.5;1409.2;1832.0;1.3
+Cultivos Tropicales Tradicionales;2011;76036;Andalucía;2030300;Café;Anual;302.2;231.0;393.0;1.7
+Cultivos Tropicales Tradicionales;2011;76041;Ansermanuevo;2030300;Café;Anual;5956.8;5434.0;6086.0;1.12
+Cultivos Tropicales Tradicionales;2011;76054;Argelia;2030300;Café;Anual;4080.8;1983.2;992.0;0.5
+Cultivos Tropicales Tradicionales;2011;76100;Bolívar;2030300;Café;Anual;1987.0;1787.0;1537.0;0.86
+Cultivos Tropicales Tradicionales;2011;76111;Buga;2030300;Café;Anual;584.4;530.4;530.0;1.0
+Cultivos Tropicales Tradicionales;2011;76113;Bugalagrande;2030300;Café;Anual;2714.0;2480.0;1984.0;0.8
+Cultivos Tropicales Tradicionales;2011;76122;Caicedonia;2030300;Café;Anual;5635.0;4615.0;2596.0;0.56
+Cultivos Tropicales Tradicionales;2011;76126;Calima Darién;2030300;Café;Anual;929.5;895.0;448.0;0.5
+Cultivos Tropicales Tradicionales;2011;76147;Cartago;2030300;Café;Anual;499.2;399.2;375.0;0.94
+Cultivos Tropicales Tradicionales;2011;76233;Dagua;2030300;Café;Anual;1657.0;1627.0;1302.0;0.8
+Cultivos Tropicales Tradicionales;2011;76243;El Águila;2030300;Café;Anual;6175.5;4440.0;6268.0;1.41
+Cultivos Tropicales Tradicionales;2011;76246;El Cairo;2030300;Café;Anual;4316.0;4207.1;5259.0;1.25
+Cultivos Tropicales Tradicionales;2011;76248;El Cerrito;2030300;Café;Anual;166.0;143.0;86.0;0.6
+Cultivos Tropicales Tradicionales;2011;76250;El Dovio;2030300;Café;Anual;1181.2;988.0;1087.0;1.1
+Cultivos Tropicales Tradicionales;2011;76275;Florida;2030300;Café;Anual;922.0;902.0;4510.0;5.0
+Cultivos Tropicales Tradicionales;2011;76306;Ginebra;2030300;Café;Anual;1043.3;953.3;496.0;0.52
+Cultivos Tropicales Tradicionales;2011;76318;Guacarí;2030300;Café;Anual;593.0;583.0;525.0;0.9
+Cultivos Tropicales Tradicionales;2011;76364;Jamundí;2030300;Café;Anual;1707.0;1547.0;1238.0;0.8
+Cultivos Tropicales Tradicionales;2011;76377;La Cumbre;2030300;Café;Anual;862.0;862.0;776.0;0.9
+Cultivos Tropicales Tradicionales;2011;76400;La Unión;2030300;Café;Anual;331.0;316.0;196.0;0.62
+Cultivos Tropicales Tradicionales;2011;76403;La Victoria;2030300;Café;Anual;765.6;765.6;842.0;1.1
+Cultivos Tropicales Tradicionales;2011;76497;Obando;2030300;Café;Anual;1552.8;1456.0;1281.0;0.88
+Cultivos Tropicales Tradicionales;2011;76520;Palmira;2030300;Café;Anual;279.0;278.0;278.0;1.0
+Cultivos Tropicales Tradicionales;2011;76563;Pradera;2030300;Café;Anual;397.5;365.4;208.0;0.57
+Cultivos Tropicales Tradicionales;2011;76606;Restrepo;2030300;Café;Anual;1198.5;1057.5;1142.0;1.08
+Cultivos Tropicales Tradicionales;2011;76616;Riofrío;2030300;Café;Anual;3893.4;3860.9;3327.0;0.86
+Cultivos Tropicales Tradicionales;2011;76622;Roldanillo;2030300;Café;Anual;813.0;786.0;550.0;0.7
+Cultivos Tropicales Tradicionales;2011;76670;San Pedro;2030300;Café;Anual;427.8;422.8;338.0;0.8
+Cultivos Tropicales Tradicionales;2011;76736;Sevilla;2030300;Café;Anual;7420.0;6701.5;8377.0;1.25
+Cultivos Tropicales Tradicionales;2011;76823;Toro;2030300;Café;Anual;2135.0;1963.0;1806.0;0.92
+Cultivos Tropicales Tradicionales;2011;76828;Trujillo;2030300;Café;Anual;5011.9;4735.7;4142.0;0.87
+Cultivos Tropicales Tradicionales;2011;76834;Tuluá;2030300;Café;Anual;3916.0;3900.0;5070.0;1.3
+Cultivos Tropicales Tradicionales;2011;76845;Ulloa;2030300;Café;Anual;893.5;785.5;982.0;1.25
+Cultivos Tropicales Tradicionales;2011;76863;Versalles;2030300;Café;Anual;1616.0;1300.0;260.0;0.2
+Cultivos Tropicales Tradicionales;2011;76869;Vijes;2030300;Café;Anual;968.0;865.0;1038.0;1.2
+Cultivos Tropicales Tradicionales;2011;76890;Yotoco;2030300;Café;Anual;1658.0;1518.0;2067.0;1.36
+Cultivos Tropicales Tradicionales;2011;76892;Yumbo;2030300;Café;Anual;354.0;334.0;200.0;0.6
+Cultivos Tropicales Tradicionales;2012;76001;Cali;2030300;Café;Anual;657.0;505.0;505.0;1.0
+Cultivos Tropicales Tradicionales;2012;76020;Alcalá;2030300;Café;Anual;1443.5;1405.0;1967.0;1.4
+Cultivos Tropicales Tradicionales;2012;76036;Andalucía;2030300;Café;Anual;297.0;231.0;393.0;1.7
+Cultivos Tropicales Tradicionales;2012;76041;Ansermanuevo;2030300;Café;Anual;5747.0;4801.7;5282.0;1.1
+Cultivos Tropicales Tradicionales;2012;76054;Argelia;2030300;Café;Anual;2714.0;2021.6;1617.0;0.8
+Cultivos Tropicales Tradicionales;2012;76100;Bolívar;2030300;Café;Anual;1715.0;1575.0;1355.0;0.86
+Cultivos Tropicales Tradicionales;2012;76111;Buga;2030300;Café;Anual;558.0;530.4;530.0;1.0
+Cultivos Tropicales Tradicionales;2012;76113;Bugalagrande;2030300;Café;Anual;1905.0;1621.0;1297.0;0.8
+Cultivos Tropicales Tradicionales;2012;76122;Caicedonia;2030300;Café;Anual;5096.0;4549.0;2559.0;0.56
+Cultivos Tropicales Tradicionales;2012;76126;Calima Darién;2030300;Café;Anual;469.0;385.0;193.0;0.5
+Cultivos Tropicales Tradicionales;2012;76147;Cartago;2030300;Café;Anual;421.0;410.8;207.0;0.5
+Cultivos Tropicales Tradicionales;2012;76233;Dagua;2030300;Café;Anual;1532.0;1502.0;1202.0;0.8
+Cultivos Tropicales Tradicionales;2012;76243;El Águila;2030300;Café;Anual;6244.0;4950.6;6436.0;1.3
+Cultivos Tropicales Tradicionales;2012;76246;El Cairo;2030300;Café;Anual;4002.0;3893.1;4866.0;1.25
+Cultivos Tropicales Tradicionales;2012;76248;El Cerrito;2030300;Café;Anual;203.0;166.0;100.0;0.6
+Cultivos Tropicales Tradicionales;2012;76250;El Dovio;2030300;Café;Anual;702.0;672.0;403.0;0.6
+Cultivos Tropicales Tradicionales;2012;76275;Florida;2030300;Café;Anual;1287.0;902.0;541.0;0.6
+Cultivos Tropicales Tradicionales;2012;76306;Ginebra;2030300;Café;Anual;912.0;822.0;427.0;0.52
+Cultivos Tropicales Tradicionales;2012;76318;Guacarí;2030300;Café;Anual;525.0;533.0;426.0;0.8
+Cultivos Tropicales Tradicionales;2012;76364;Jamundí;2030300;Café;Anual;1544.0;1506.0;904.0;0.6
+Cultivos Tropicales Tradicionales;2012;76377;La Cumbre;2030300;Café;Anual;793.0;724.0;652.0;0.9
+Cultivos Tropicales Tradicionales;2012;76400;La Unión;2030300;Café;Anual;498.0;468.0;328.0;0.7
+Cultivos Tropicales Tradicionales;2012;76403;La Victoria;2030300;Café;Anual;681.0;601.0;661.0;1.1
+Cultivos Tropicales Tradicionales;2012;76497;Obando;2030300;Café;Anual;1221.0;1083.0;953.0;0.88
+Cultivos Tropicales Tradicionales;2012;76520;Palmira;2030300;Café;Anual;394.0;279.0;279.0;1.0
+Cultivos Tropicales Tradicionales;2012;76563;Pradera;2030300;Café;Anual;477.0;365.4;208.0;0.57
+Cultivos Tropicales Tradicionales;2012;76606;Restrepo;2030300;Café;Anual;786.0;728.0;743.0;1.02
+Cultivos Tropicales Tradicionales;2012;76616;Riofrío;2030300;Café;Anual;3292.0;3258.6;2802.0;0.86
+Cultivos Tropicales Tradicionales;2012;76622;Roldanillo;2030300;Café;Anual;907.0;813.0;610.0;0.75
+Cultivos Tropicales Tradicionales;2012;76670;San Pedro;2030300;Café;Anual;463.0;428.0;342.0;0.8
+Cultivos Tropicales Tradicionales;2012;76736;Sevilla;2030300;Café;Anual;7300.0;7155.7;8587.0;1.2
+Cultivos Tropicales Tradicionales;2012;76823;Toro;2030300;Café;Anual;1696.0;1271.0;1271.0;1.0
+Cultivos Tropicales Tradicionales;2012;76828;Trujillo;2030300;Café;Anual;4306.0;4735.7;4262.0;0.9
+Cultivos Tropicales Tradicionales;2012;76834;Tuluá;2030300;Café;Anual;4036.0;3715.0;3715.0;1.0
+Cultivos Tropicales Tradicionales;2012;76845;Ulloa;2030300;Café;Anual;809.0;753.6;1356.0;1.8
+Cultivos Tropicales Tradicionales;2012;76863;Versalles;2030300;Café;Anual;1451.0;1400.0;1400.0;1.0
+Cultivos Tropicales Tradicionales;2012;76869;Vijes;2030300;Café;Anual;681.0;636.0;954.0;1.5
+Cultivos Tropicales Tradicionales;2012;76890;Yotoco;2030300;Café;Anual;1364.0;1121.0;1682.0;1.5
+Cultivos Tropicales Tradicionales;2012;76892;Yumbo;2030300;Café;Anual;323.0;303.0;212.0;0.7
+Cultivos Tropicales Tradicionales;2013;76020;Alcalá;2030300;Café;Anual;1491.8;1249.0;2810.0;2.25
+Cultivos Tropicales Tradicionales;2013;76036;Andalucía;2030300;Café;Anual;302.0;227.0;182.0;0.8
+Cultivos Tropicales Tradicionales;2013;76041;Ansermanuevo;2030300;Café;Anual;5827.1;4929.1;6161.0;1.25
+Cultivos Tropicales Tradicionales;2013;76054;Argelia;2030300;Café;Anual;4215.0;2079.6;1664.0;0.8
+Cultivos Tropicales Tradicionales;2013;76100;Bolívar;2030300;Café;Anual;1785.0;1695.0;1458.0;0.86
+Cultivos Tropicales Tradicionales;2013;76111;Buga;2030300;Café;Anual;23.0;17.0;34.0;2.0
+Cultivos Tropicales Tradicionales;2013;76113;Bugalagrande;2030300;Café;Anual;2764.0;2480.0;1984.0;0.8
+Cultivos Tropicales Tradicionales;2013;76122;Caicedonia;2030300;Café;Anual;5096.0;4549.0;5118.0;1.13
+Cultivos Tropicales Tradicionales;2013;76126;Calima Darién;2030300;Café;Anual;789.5;789.5;395.0;0.5
+Cultivos Tropicales Tradicionales;2013;76147;Cartago;2030300;Café;Anual;397.0;360.4;187.0;0.52
+Cultivos Tropicales Tradicionales;2013;76233;Dagua;2030300;Café;Anual;1615.0;1615.0;1615.0;1.0
+Cultivos Tropicales Tradicionales;2013;76243;El Águila;2030300;Café;Anual;6226.9;5336.0;6670.0;1.25
+Cultivos Tropicales Tradicionales;2013;76246;El Cairo;2030300;Café;Anual;4042.0;3893.0;3114.0;0.8
+Cultivos Tropicales Tradicionales;2013;76248;El Cerrito;2030300;Café;Anual;216.0;191.0;115.0;0.6
+Cultivos Tropicales Tradicionales;2013;76250;El Dovio;2030300;Café;Anual;936.0;905.0;543.0;0.6
+Cultivos Tropicales Tradicionales;2013;76275;Florida;2030300;Café;Anual;1336.0;1200.0;720.0;0.6
+Cultivos Tropicales Tradicionales;2013;76306;Ginebra;2030300;Café;Anual;1058.0;1043.0;4172.0;4.0
+Cultivos Tropicales Tradicionales;2013;76318;Guacarí;2030300;Café;Anual;598.0;438.0;219.0;0.5
+Cultivos Tropicales Tradicionales;2013;76364;Jamundí;2030300;Café;Anual;1586.0;1586.0;952.0;0.6
+Cultivos Tropicales Tradicionales;2013;76377;La Cumbre;2030300;Café;Anual;767.0;500.0;450.0;0.9
+Cultivos Tropicales Tradicionales;2013;76400;La Unión;2030300;Café;Anual;498.2;36.0;29.0;0.81
+Cultivos Tropicales Tradicionales;2013;76497;Obando;2030300;Café;Anual;1272.0;1083.0;953.0;0.88
+Cultivos Tropicales Tradicionales;2013;76520;Palmira;2030300;Café;Anual;287.0;279.0;279.0;1.0
+Cultivos Tropicales Tradicionales;2013;76606;Restrepo;2030300;Café;Anual;791.0;736.0;751.0;1.02
+Cultivos Tropicales Tradicionales;2013;76616;Riofrío;2030300;Café;Anual;3903.2;3598.2;3238.0;0.9
+Cultivos Tropicales Tradicionales;2013;76622;Roldanillo;2030300;Café;Anual;906.0;793.0;634.0;0.8
+Cultivos Tropicales Tradicionales;2013;76670;San Pedro;2030300;Café;Anual;438.0;428.0;342.0;0.8
+Cultivos Tropicales Tradicionales;2013;76736;Sevilla;2030300;Café;Anual;7420.0;7156.0;8587.0;1.2
+Cultivos Tropicales Tradicionales;2013;76823;Toro;2030300;Café;Anual;2565.0;2135.0;2135.0;1.0
+Cultivos Tropicales Tradicionales;2013;76828;Trujillo;2030300;Café;Anual;4321.6;4026.6;6040.0;1.5
+Cultivos Tropicales Tradicionales;2013;76845;Ulloa;2030300;Café;Anual;697.5;690.3;775.0;1.12
+Cultivos Tropicales Tradicionales;2013;76869;Vijes;2030300;Café;Anual;1030.0;1005.0;804.0;0.8
+Cultivos Tropicales Tradicionales;2013;76892;Yumbo;2030300;Café;Anual;380.0;350.0;245.0;0.7
+Cultivos Tropicales Tradicionales;2014;76001;Cali;2030300;Café;Anual;670.0;600.0;360.0;0.6
+Cultivos Tropicales Tradicionales;2014;76020;Alcalá;2030300;Café;Anual;1460.0;1265.0;1265.0;1.0
+Cultivos Tropicales Tradicionales;2014;76036;Andalucía;2030300;Café;Anual;302.0;257.0;154.0;0.6
+Cultivos Tropicales Tradicionales;2014;76041;Ansermanuevo;2030300;Café;Anual;5744.0;5354.9;5355.0;1.0
+Cultivos Tropicales Tradicionales;2014;76054;Argelia;2030300;Café;Anual;2613.0;2530.0;2024.0;0.8
+Cultivos Tropicales Tradicionales;2014;76100;Bolívar;2030300;Café;Anual;1732.0;1647.0;1482.0;0.9
+Cultivos Tropicales Tradicionales;2014;76111;Buga;2030300;Café;Anual;525.0;490.0;490.0;1.0
+Cultivos Tropicales Tradicionales;2014;76113;Bugalagrande;2030300;Café;Anual;2050.0;1980.0;1188.0;0.6
+Cultivos Tropicales Tradicionales;2014;76122;Caicedonia;2030300;Café;Anual;4989.0;4335.0;5202.0;1.2
+Cultivos Tropicales Tradicionales;2014;76126;Calima Darién;2030300;Café;Anual;484.0;450.0;225.0;0.5
+Cultivos Tropicales Tradicionales;2014;76147;Cartago;2030300;Café;Anual;397.0;383.8;192.0;0.5
+Cultivos Tropicales Tradicionales;2014;76233;Dagua;2030300;Café;Anual;1550.0;1389.0;1389.0;1.0
+Cultivos Tropicales Tradicionales;2014;76243;El Águila;2030300;Café;Anual;6248.2;5835.2;5835.0;1.0
+Cultivos Tropicales Tradicionales;2014;76246;El Cairo;2030300;Café;Anual;4001.0;3719.5;3720.0;1.0
+Cultivos Tropicales Tradicionales;2014;76248;El Cerrito;2030300;Café;Anual;200.0;190.0;133.0;0.7
+Cultivos Tropicales Tradicionales;2014;76250;El Dovio;2030300;Café;Anual;720.0;700.0;490.0;0.7
+Cultivos Tropicales Tradicionales;2014;76275;Florida;2030300;Café;Anual;1376.0;1286.0;772.0;0.6
+Cultivos Tropicales Tradicionales;2014;76306;Ginebra;2030300;Café;Anual;915.0;895.0;358.0;0.4
+Cultivos Tropicales Tradicionales;2014;76318;Guacarí;2030300;Café;Anual;550.0;528.0;264.0;0.5
+Cultivos Tropicales Tradicionales;2014;76364;Jamundí;2030300;Café;Anual;1529.0;1529.0;1223.0;0.8
+Cultivos Tropicales Tradicionales;2014;76377;La Cumbre;2030300;Café;Anual;812.0;790.0;553.0;0.7
+Cultivos Tropicales Tradicionales;2014;76400;La Unión;2030300;Café;Anual;494.1;466.0;280.0;0.6
+Cultivos Tropicales Tradicionales;2014;76403;La Victoria;2030300;Café;Anual;578.0;563.0;1126.0;2.0
+Cultivos Tropicales Tradicionales;2014;76497;Obando;2030300;Café;Anual;1116.1;1088.7;653.0;0.6
+Cultivos Tropicales Tradicionales;2014;76520;Palmira;2030300;Café;Anual;441.0;400.0;360.0;0.9
+Cultivos Tropicales Tradicionales;2014;76563;Pradera;2030300;Café;Anual;523.0;523.0;366.0;0.7
+Cultivos Tropicales Tradicionales;2014;76606;Restrepo;2030300;Café;Anual;687.5;656.5;657.0;1.0
+Cultivos Tropicales Tradicionales;2014;76616;Riofrío;2030300;Café;Anual;3202.0;2900.0;2030.0;0.7
+Cultivos Tropicales Tradicionales;2014;76622;Roldanillo;2030300;Café;Anual;874.8;784.5;392.0;0.5
+Cultivos Tropicales Tradicionales;2014;76670;San Pedro;2030300;Café;Anual;487.0;477.0;382.0;0.8
+Cultivos Tropicales Tradicionales;2014;76736;Sevilla;2030300;Café;Anual;7170.0;7153.0;8584.0;1.2
+Cultivos Tropicales Tradicionales;2014;76823;Toro;2030300;Café;Anual;1611.0;1596.0;1596.0;1.0
+Cultivos Tropicales Tradicionales;2014;76828;Trujillo;2030300;Café;Anual;4340.0;4303.0;5164.0;1.2
+Cultivos Tropicales Tradicionales;2014;76834;Tuluá;2030300;Café;Anual;4148.0;3798.0;2659.0;0.7
+Cultivos Tropicales Tradicionales;2014;76845;Ulloa;2030300;Café;Anual;686.1;675.1;608.0;0.9
+Cultivos Tropicales Tradicionales;2014;76863;Versalles;2030300;Café;Anual;1450.0;1300.0;1040.0;0.8
+Cultivos Tropicales Tradicionales;2014;76869;Vijes;2030300;Café;Anual;701.0;676.0;608.0;0.9
+Cultivos Tropicales Tradicionales;2014;76890;Yotoco;2030300;Café;Anual;1175.0;900.0;630.0;0.7
+Cultivos Tropicales Tradicionales;2014;76892;Yumbo;2030300;Café;Anual;350.0;330.0;231.0;0.7
+Cultivos Tropicales Tradicionales;2015;76001;Cali;2030300;Café;Anual;672.0;638.4;319.0;0.5
+Cultivos Tropicales Tradicionales;2015;76020;Alcalá;2030300;Café;Anual;1417.0;1346.2;1346.0;1.0
+Cultivos Tropicales Tradicionales;2015;76036;Andalucía;2030300;Café;Anual;252.3;239.7;192.0;0.8
+Cultivos Tropicales Tradicionales;2015;76041;Ansermanuevo;2030300;Café;Anual;4887.8;4643.4;4643.0;1.0
+Cultivos Tropicales Tradicionales;2015;76054;Argelia;2030300;Café;Anual;2394.2;2274.5;1592.0;0.7
+Cultivos Tropicales Tradicionales;2015;76100;Bolívar;2030300;Café;Anual;1593.8;1514.1;1514.0;1.0
+Cultivos Tropicales Tradicionales;2015;76111;Buga;2030300;Café;Anual;508.8;483.4;483.0;1.0
+Cultivos Tropicales Tradicionales;2015;76113;Bugalagrande;2030300;Café;Anual;1886.0;1791.7;1433.0;0.8
+Cultivos Tropicales Tradicionales;2015;76122;Caicedonia;2030300;Café;Anual;4558.4;4330.5;5630.0;1.3
+Cultivos Tropicales Tradicionales;2015;76126;Calima Darién;2030300;Café;Anual;445.9;423.6;424.0;1.0
+Cultivos Tropicales Tradicionales;2015;76147;Cartago;2030300;Café;Anual;377.2;358.3;215.0;0.6
+Cultivos Tropicales Tradicionales;2015;76233;Dagua;2030300;Café;Anual;1214.9;1154.2;1154.0;1.0
+Cultivos Tropicales Tradicionales;2015;76243;El Águila;2030300;Café;Anual;6154.4;5846.6;5847.0;1.0
+Cultivos Tropicales Tradicionales;2015;76246;El Cairo;2030300;Café;Anual;3669.1;3485.7;3486.0;1.0
+Cultivos Tropicales Tradicionales;2015;76248;El Cerrito;2030300;Café;Anual;184.5;175.3;123.0;0.7
+Cultivos Tropicales Tradicionales;2015;76250;El Dovio;2030300;Café;Anual;715.0;679.2;475.0;0.7
+Cultivos Tropicales Tradicionales;2015;76275;Florida;2030300;Café;Anual;1432.5;1360.8;816.0;0.6
+Cultivos Tropicales Tradicionales;2015;76306;Ginebra;2030300;Café;Anual;865.6;822.3;329.0;0.4
+Cultivos Tropicales Tradicionales;2015;76318;Guacarí;2030300;Café;Anual;549.6;522.1;261.0;0.5
+Cultivos Tropicales Tradicionales;2015;76364;Jamundí;2030300;Café;Anual;1460.8;1387.7;694.0;0.5
+Cultivos Tropicales Tradicionales;2015;76377;La Cumbre;2030300;Café;Anual;683.6;649.4;455.0;0.7
+Cultivos Tropicales Tradicionales;2015;76400;La Unión;2030300;Café;Anual;482.5;458.4;642.0;1.4
+Cultivos Tropicales Tradicionales;2015;76403;La Victoria;2030300;Café;Anual;568.5;540.1;1080.0;2.0
+Cultivos Tropicales Tradicionales;2015;76497;Obando;2030300;Café;Anual;985.5;936.2;562.0;0.6
+Cultivos Tropicales Tradicionales;2015;76520;Palmira;2030300;Café;Anual;408.7;388.2;349.0;0.9
+Cultivos Tropicales Tradicionales;2015;76563;Pradera;2030300;Café;Anual;525.3;499.0;349.0;0.7
+Cultivos Tropicales Tradicionales;2015;76606;Restrepo;2030300;Café;Anual;614.0;583.3;583.0;1.0
+Cultivos Tropicales Tradicionales;2015;76616;Riofrío;2030300;Café;Anual;2993.4;2843.8;1991.0;0.7
+Cultivos Tropicales Tradicionales;2015;76622;Roldanillo;2030300;Café;Anual;860.2;817.2;654.0;0.8
+Cultivos Tropicales Tradicionales;2015;76670;San Pedro;2030300;Café;Anual;490.1;465.6;372.0;0.8
+Cultivos Tropicales Tradicionales;2015;76736;Sevilla;2030300;Café;Anual;6605.3;6275.0;7530.0;1.2
+Cultivos Tropicales Tradicionales;2015;76823;Toro;2030300;Café;Anual;1540.7;1463.7;1464.0;1.0
+Cultivos Tropicales Tradicionales;2015;76828;Trujillo;2030300;Café;Anual;4233.0;4021.3;4021.0;1.0
+Cultivos Tropicales Tradicionales;2015;76834;Tuluá;2030300;Café;Anual;4152.4;3944.8;2761.0;0.7
+Cultivos Tropicales Tradicionales;2015;76845;Ulloa;2030300;Café;Anual;686.9;652.5;587.0;0.9
+Cultivos Tropicales Tradicionales;2015;76863;Versalles;2030300;Café;Anual;1340.1;1273.1;1019.0;0.8
+Cultivos Tropicales Tradicionales;2015;76869;Vijes;2030300;Café;Anual;633.1;601.4;481.0;0.8
+Cultivos Tropicales Tradicionales;2015;76890;Yotoco;2030300;Café;Anual;1056.4;1003.6;702.0;0.7
+Cultivos Tropicales Tradicionales;2015;76892;Yumbo;2030300;Café;Anual;301.1;286.0;286.0;1.0
+Cultivos Tropicales Tradicionales;2016;76001;Cali;2030300;Café;Anual;666.5;621.5;715.0;1.15
+Cultivos Tropicales Tradicionales;2016;76020;Alcalá;2030300;Café;Anual;1427.9;1214.0;2149.0;1.77
+Cultivos Tropicales Tradicionales;2016;76036;Andalucía;2030300;Café;Anual;238.1;215.43;228.0;1.06
+Cultivos Tropicales Tradicionales;2016;76041;Ansermanuevo;2030300;Café;Anual;4787.3;4146.5;4810.0;1.16
+Cultivos Tropicales Tradicionales;2016;76054;Argelia;2030300;Café;Anual;2310.1;2064.8;1858.0;0.9
+Cultivos Tropicales Tradicionales;2016;76100;Bolívar;2030300;Café;Anual;1557.0;1424.44;1424.0;1.0
+Cultivos Tropicales Tradicionales;2016;76111;Buga;2030300;Café;Anual;500.0;454.9;487.0;1.07
+Cultivos Tropicales Tradicionales;2016;76113;Bugalagrande;2030300;Café;Anual;1888.5;1661.61;2127.0;1.28
+Cultivos Tropicales Tradicionales;2016;76122;Caicedonia;2030300;Café;Anual;4446.0;3573.73;4742.0;1.33
+Cultivos Tropicales Tradicionales;2016;76126;Calima Darién;2030300;Café;Anual;433.9;383.5;384.0;1.0
+Cultivos Tropicales Tradicionales;2016;76147;Cartago;2030300;Café;Anual;345.4;297.45;333.0;1.12
+Cultivos Tropicales Tradicionales;2016;76233;Dagua;2030300;Café;Anual;1132.9;1043.0;939.0;0.9
+Cultivos Tropicales Tradicionales;2016;76243;El Águila;2030300;Café;Anual;6130.6;5185.6;6223.0;1.2
+Cultivos Tropicales Tradicionales;2016;76246;El Cairo;2030300;Café;Anual;3546.13;3301.84;2873.0;0.87
+Cultivos Tropicales Tradicionales;2016;76248;El Cerrito;2030300;Café;Anual;187.0;180.0;180.0;1.0
+Cultivos Tropicales Tradicionales;2016;76250;El Dovio;2030300;Café;Anual;694.0;667.0;520.0;0.78
+Cultivos Tropicales Tradicionales;2016;76275;Florida;2030300;Café;Anual;1411.0;1284.22;1438.0;1.12
+Cultivos Tropicales Tradicionales;2016;76306;Ginebra;2030300;Café;Anual;872.75;793.0;793.0;1.0
+Cultivos Tropicales Tradicionales;2016;76318;Guacarí;2030300;Café;Anual;519.8;446.0;562.0;1.26
+Cultivos Tropicales Tradicionales;2016;76364;Jamundí;2030300;Café;Anual;1466.75;1314.95;1433.0;1.09
+Cultivos Tropicales Tradicionales;2016;76377;La Cumbre;2030300;Café;Anual;666.6;619.0;644.0;1.04
+Cultivos Tropicales Tradicionales;2016;76400;La Unión;2030300;Café;Anual;467.5;448.0;430.0;0.96
+Cultivos Tropicales Tradicionales;2016;76403;La Victoria;2030300;Café;Anual;568.5;533.67;475.0;0.89
+Cultivos Tropicales Tradicionales;2016;76497;Obando;2030300;Café;Anual;970.0;899.6;918.0;1.02
+Cultivos Tropicales Tradicionales;2016;76520;Palmira;2030300;Café;Anual;404.3;396.85;413.0;1.04
+Cultivos Tropicales Tradicionales;2016;76563;Pradera;2030300;Café;Anual;566.4;494.74;569.0;1.15
+Cultivos Tropicales Tradicionales;2016;76606;Restrepo;2030300;Café;Anual;610.0;567.64;528.0;0.93
+Cultivos Tropicales Tradicionales;2016;76616;Riofrío;2030300;Café;Anual;2879.6;2553.3;3064.0;1.2
+Cultivos Tropicales Tradicionales;2016;76622;Roldanillo;2030300;Café;Anual;813.5;696.11;766.0;1.1
+Cultivos Tropicales Tradicionales;2016;76670;San Pedro;2030300;Café;Anual;498.85;448.0;479.0;1.07
+Cultivos Tropicales Tradicionales;2016;76736;Sevilla;2030300;Café;Anual;6287.8;5175.71;7453.0;1.44
+Cultivos Tropicales Tradicionales;2016;76823;Toro;2030300;Café;Anual;1500.2;1325.65;1578.0;1.19
+Cultivos Tropicales Tradicionales;2016;76828;Trujillo;2030300;Café;Anual;4214.0;3616.12;4448.0;1.23
+Cultivos Tropicales Tradicionales;2016;76834;Tuluá;2030300;Café;Anual;4110.8;3593.91;4061.0;1.13
+Cultivos Tropicales Tradicionales;2016;76845;Ulloa;2030300;Café;Anual;675.1;576.43;945.0;1.64
+Cultivos Tropicales Tradicionales;2016;76863;Versalles;2030300;Café;Anual;1279.9;1194.31;955.0;0.8
+Cultivos Tropicales Tradicionales;2016;76869;Vijes;2030300;Café;Anual;629.0;609.75;585.0;0.96
+Cultivos Tropicales Tradicionales;2016;76890;Yotoco;2030300;Café;Anual;997.1;903.13;1102.0;1.22
+Cultivos Tropicales Tradicionales;2016;76892;Yumbo;2030300;Café;Anual;301.1;298.52;328.0;1.1
+Cultivos Tropicales Tradicionales;2017;76001;Cali;2030300;Café;Anual;666.5;592.0;710.0;1.2
+Cultivos Tropicales Tradicionales;2017;76020;Alcalá;2030300;Café;Anual;1606.0;1427.0;2854.0;2.0
+Cultivos Tropicales Tradicionales;2017;76036;Andalucía;2030300;Café;Anual;248.1;218.0;174.0;0.8
+Cultivos Tropicales Tradicionales;2017;76041;Ansermanuevo;2030300;Café;Anual;4711.33;4423.8;3981.0;0.9
+Cultivos Tropicales Tradicionales;2017;76054;Argelia;2030300;Café;Anual;2310.0;2310.0;0.0;0.0
+Cultivos Tropicales Tradicionales;2017;76100;Bolívar;2030300;Café;Anual;1492.0;1685.0;1685.0;1.0
+Cultivos Tropicales Tradicionales;2017;76111;Buga;2030300;Café;Anual;507.0;454.9;487.0;1.07
+Cultivos Tropicales Tradicionales;2017;76113;Bugalagrande;2030300;Café;Anual;1903.5;1888.5;1511.0;0.8
+Cultivos Tropicales Tradicionales;2017;76122;Caicedonia;2030300;Café;Anual;4433.0;3911.0;5308.0;1.36
+Cultivos Tropicales Tradicionales;2017;76126;Calima Darién;2030300;Café;Anual;435.0;426.0;426.0;1.0
+Cultivos Tropicales Tradicionales;2017;76147;Cartago;2030300;Café;Anual;326.4;266.4;266.0;1.0
+Cultivos Tropicales Tradicionales;2017;76233;Dagua;2030300;Café;Anual;1132.9;297.0;297.0;1.0
+Cultivos Tropicales Tradicionales;2017;76243;El Águila;2030300;Café;Anual;6145.6;5078.0;7617.0;1.5
+Cultivos Tropicales Tradicionales;2017;76246;El Cairo;2030300;Café;Anual;3454.99;3354.0;3019.0;0.9
+Cultivos Tropicales Tradicionales;2017;76248;El Cerrito;2030300;Café;Anual;191.5;184.0;184.0;1.0
+Cultivos Tropicales Tradicionales;2017;76250;El Dovio;2030300;Café;Anual;698.0;575.0;862.0;1.5
+Cultivos Tropicales Tradicionales;2017;76275;Florida;2030300;Café;Anual;1528.0;1406.0;1687.0;1.2
+Cultivos Tropicales Tradicionales;2017;76306;Ginebra;2030300;Café;Anual;875.0;872.0;872.0;1.0
+Cultivos Tropicales Tradicionales;2017;76318;Guacarí;2030300;Café;Anual;311.8;297.0;416.0;1.4
+Cultivos Tropicales Tradicionales;2017;76364;Jamundí;2030300;Café;Anual;1470.0;1467.0;1009.0;0.69
+Cultivos Tropicales Tradicionales;2017;76377;La Cumbre;2030300;Café;Anual;666.6;646.6;647.0;1.0
+Cultivos Tropicales Tradicionales;2017;76400;La Unión;2030300;Café;Anual;467.5;466.9;467.0;1.0
+Cultivos Tropicales Tradicionales;2017;76403;La Victoria;2030300;Café;Anual;586.5;512.5;1025.0;2.0
+Cultivos Tropicales Tradicionales;2017;76497;Obando;2030300;Café;Anual;1010.0;927.0;556.0;0.6
+Cultivos Tropicales Tradicionales;2017;76520;Palmira;2030300;Café;Anual;386.3;368.3;331.0;0.9
+Cultivos Tropicales Tradicionales;2017;76563;Pradera;2030300;Café;Anual;546.4;545.0;818.0;1.5
+Cultivos Tropicales Tradicionales;2017;76606;Restrepo;2030300;Café;Anual;620.0;598.0;610.0;1.02
+Cultivos Tropicales Tradicionales;2017;76616;Riofrío;2030300;Café;Anual;2902.6;2467.6;3208.0;1.3
+Cultivos Tropicales Tradicionales;2017;76622;Roldanillo;2030300;Café;Anual;833.5;806.5;645.0;0.8
+Cultivos Tropicales Tradicionales;2017;76670;San Pedro;2030300;Café;Anual;503.85;488.0;390.0;0.8
+Cultivos Tropicales Tradicionales;2017;76736;Sevilla;2030300;Café;Anual;6287.0;5000.0;7000.0;1.4
+Cultivos Tropicales Tradicionales;2017;76823;Toro;2030300;Café;Anual;1505.0;1480.0;2220.0;1.5
+Cultivos Tropicales Tradicionales;2017;76828;Trujillo;2030300;Café;Anual;4168.73;3865.8;4755.0;1.23
+Cultivos Tropicales Tradicionales;2017;76834;Tuluá;2030300;Café;Anual;4110.0;391.0;430.0;1.1
+Cultivos Tropicales Tradicionales;2017;76845;Ulloa;2030300;Café;Anual;740.02;645.7;1033.0;1.6
+Cultivos Tropicales Tradicionales;2017;76863;Versalles;2030300;Café;Anual;1312.9;1279.9;1152.0;0.9
+Cultivos Tropicales Tradicionales;2017;76869;Vijes;2030300;Café;Anual;625.0;600.0;420.0;0.7
+Cultivos Tropicales Tradicionales;2017;76890;Yotoco;2030300;Café;Anual;931.1;848.1;1103.0;1.3
+Cultivos Tropicales Tradicionales;2017;76892;Yumbo;2030300;Café;Anual;302.1;293.6;294.0;1.0
+Cultivos Tropicales Tradicionales;2018;76001;Cali;2030300;Café;Anual;666.5;666.5;800.0;1.2
+Cultivos Tropicales Tradicionales;2018;76020;Alcalá;2030300;Café;Anual;1606.0;1427.0;2854.0;2.0
+Cultivos Tropicales Tradicionales;2018;76036;Andalucía;2030300;Café;Anual;253.1;248.1;198.0;0.8
+Cultivos Tropicales Tradicionales;2018;76041;Ansermanuevo;2030300;Café;Anual;3950.82;3657.12;3291.0;0.9
+Cultivos Tropicales Tradicionales;2018;76054;Argelia;2030300;Café;Anual;1914.0;1764.0;1517.0;0.86
+Cultivos Tropicales Tradicionales;2018;76100;Bolívar;2030300;Café;Anual;1417.0;1387.0;1387.0;1.0
+Cultivos Tropicales Tradicionales;2018;76111;Buga;2030300;Café;Anual;515.0;515.0;0.0;0.0
+Cultivos Tropicales Tradicionales;2018;76113;Bugalagrande;2030300;Café;Anual;1903.5;1888.5;1511.0;0.8
+Cultivos Tropicales Tradicionales;2018;76122;Caicedonia;2030300;Café;Anual;4516.0;4188.0;5692.0;1.36
+Cultivos Tropicales Tradicionales;2018;76126;Calima Darién;2030300;Café;Anual;443.0;435.0;435.0;1.0
+Cultivos Tropicales Tradicionales;2018;76147;Cartago;2030300;Café;Anual;319.4;249.4;249.0;1.0
+Cultivos Tropicales Tradicionales;2018;76233;Dagua;2030300;Café;Anual;1140.9;1112.9;779.0;0.7
+Cultivos Tropicales Tradicionales;2018;76243;El Águila;2030300;Café;Anual;4903.5;4413.3;7061.0;1.6
+Cultivos Tropicales Tradicionales;2018;76246;El Cairo;2030300;Café;Anual;2926.92;2744.97;4117.0;1.5
+Cultivos Tropicales Tradicionales;2018;76248;El Cerrito;2030300;Café;Anual;191.0;191.0;191.0;1.0
+Cultivos Tropicales Tradicionales;2018;76250;El Dovio;2030300;Café;Anual;698.0;698.0;1047.0;1.5
+Cultivos Tropicales Tradicionales;2018;76275;Florida;2030300;Café;Anual;1528.0;1528.0;4584.0;3.0
+Cultivos Tropicales Tradicionales;2018;76306;Ginebra;2030300;Café;Anual;876.0;873.0;1091.0;1.25
+Cultivos Tropicales Tradicionales;2018;76318;Guacarí;2030300;Café;Anual;309.8;302.8;303.0;1.0
+Cultivos Tropicales Tradicionales;2018;76364;Jamundí;2030300;Café;Anual;1518.0;1470.0;1074.0;0.73
+Cultivos Tropicales Tradicionales;2018;76377;La Cumbre;2030300;Café;Anual;666.6;661.6;662.0;1.0
+Cultivos Tropicales Tradicionales;2018;76400;La Unión;2030300;Café;Anual;478.1;467.8;468.0;1.0
+Cultivos Tropicales Tradicionales;2018;76403;La Victoria;2030300;Café;Anual;590.0;587.0;1174.0;2.0
+Cultivos Tropicales Tradicionales;2018;76497;Obando;2030300;Café;Anual;1035.0;974.0;584.0;0.6
+Cultivos Tropicales Tradicionales;2018;76520;Palmira;2030300;Café;Anual;423.0;423.0;381.0;0.9
+Cultivos Tropicales Tradicionales;2018;76563;Pradera;2030300;Café;Anual;536.4;516.4;516.0;1.0
+Cultivos Tropicales Tradicionales;2018;76606;Restrepo;2030300;Café;Anual;579.62;549.62;561.0;1.02
+Cultivos Tropicales Tradicionales;2018;76616;Riofrío;2030300;Café;Anual;2932.6;2894.6;3763.0;1.3
+Cultivos Tropicales Tradicionales;2018;76622;Roldanillo;2030300;Café;Anual;832.3;779.9;624.0;0.8
+Cultivos Tropicales Tradicionales;2018;76670;San Pedro;2030300;Café;Anual;508.85;503.85;403.0;0.8
+Cultivos Tropicales Tradicionales;2018;76736;Sevilla;2030300;Café;Anual;6237.0;5777.0;5777.0;1.0
+Cultivos Tropicales Tradicionales;2018;76823;Toro;2030300;Café;Anual;1505.0;1505.0;1505.0;1.0
+Cultivos Tropicales Tradicionales;2018;76828;Trujillo;2030300;Café;Anual;4099.7;3784.7;4542.0;1.2
+Cultivos Tropicales Tradicionales;2018;76834;Tuluá;2030300;Café;Anual;4110.0;4110.0;4521.0;1.1
+Cultivos Tropicales Tradicionales;2018;76845;Ulloa;2030300;Café;Anual;735.54;695.64;1113.0;1.6
+Cultivos Tropicales Tradicionales;2018;76863;Versalles;2030300;Café;Anual;1305.9;1305.9;1175.0;0.9
+Cultivos Tropicales Tradicionales;2018;76869;Vijes;2030300;Café;Anual;640.0;610.0;427.0;0.7
+Cultivos Tropicales Tradicionales;2018;76890;Yotoco;2030300;Café;Anual;901.22;859.62;1118.0;1.3
+Cultivos Tropicales Tradicionales;2018;76892;Yumbo;2030300;Café;Anual;303.1;294.9;295.0;1.0
+Cultivos Tropicales Tradicionales;2019;76001;Cali;2030300;Café;Anual;666.5;666.5;800.0;1.2
+Cultivos Tropicales Tradicionales;2019;76020;Alcalá;2030300;Café;Anual;1606.0;1333.1;2666.0;2.0
+Cultivos Tropicales Tradicionales;2019;76036;Andalucía;2030300;Café;Anual;258.1;253.1;202.0;0.8
+Cultivos Tropicales Tradicionales;2019;76041;Ansermanuevo;2030300;Café;Anual;3957.46;3597.86;3238.0;0.9
+Cultivos Tropicales Tradicionales;2019;76054;Argelia;2030300;Café;Anual;1919.0;1764.0;2205.0;1.25
+Cultivos Tropicales Tradicionales;2019;76100;Bolívar;2030300;Café;Anual;1347.0;1307.0;1307.0;1.0
+Cultivos Tropicales Tradicionales;2019;76111;Buga;2030300;Café;Anual;471.0;446.0;446.0;1.0
+Cultivos Tropicales Tradicionales;2019;76113;Bugalagrande;2030300;Café;Anual;1910.5;1900.5;1520.0;0.8
+Cultivos Tropicales Tradicionales;2019;76122;Caicedonia;2030300;Café;Anual;4493.0;4480.0;6073.0;1.36
+Cultivos Tropicales Tradicionales;2019;76126;Calima Darién;2030300;Café;Anual;443.0;443.0;443.0;1.0
+Cultivos Tropicales Tradicionales;2019;76147;Cartago;2030300;Café;Anual;319.4;276.9;222.0;0.8
+Cultivos Tropicales Tradicionales;2019;76233;Dagua;2030300;Café;Anual;1046.9;1031.9;722.0;0.7
+Cultivos Tropicales Tradicionales;2019;76243;El Águila;2030300;Café;Anual;4903.5;4469.2;7151.0;1.6
+Cultivos Tropicales Tradicionales;2019;76246;El Cairo;2030300;Café;Anual;2894.49;2689.2;4034.0;1.5
+Cultivos Tropicales Tradicionales;2019;76248;El Cerrito;2030300;Café;Anual;161.0;161.0;161.0;1.0
+Cultivos Tropicales Tradicionales;2019;76250;El Dovio;2030300;Café;Anual;664.0;660.0;660.0;1.0
+Cultivos Tropicales Tradicionales;2019;76275;Florida;2030300;Café;Anual;1473.0;1473.0;4419.0;3.0
+Cultivos Tropicales Tradicionales;2019;76306;Ginebra;2030300;Café;Anual;874.0;872.0;1134.0;1.3
+Cultivos Tropicales Tradicionales;2019;76318;Guacarí;2030300;Café;Anual;307.8;300.8;301.0;1.0
+Cultivos Tropicales Tradicionales;2019;76364;Jamundí;2030300;Café;Anual;1521.0;1518.0;1117.0;0.74
+Cultivos Tropicales Tradicionales;2019;76377;La Cumbre;2030300;Café;Anual;666.6;666.6;667.0;1.0
+Cultivos Tropicales Tradicionales;2019;76400;La Unión;2030300;Café;Anual;493.1;478.1;478.0;1.0
+Cultivos Tropicales Tradicionales;2019;76403;La Victoria;2030300;Café;Anual;559.0;506.0;506.0;1.0
+Cultivos Tropicales Tradicionales;2019;76497;Obando;2030300;Café;Anual;1055.0;1055.0;2110.0;2.0
+Cultivos Tropicales Tradicionales;2019;76520;Palmira;2030300;Café;Anual;423.0;423.0;381.0;0.9
+Cultivos Tropicales Tradicionales;2019;76563;Pradera;2030300;Café;Anual;536.4;536.4;536.0;1.0
+Cultivos Tropicales Tradicionales;2019;76606;Restrepo;2030300;Café;Anual;525.8;474.1;484.0;1.02
+Cultivos Tropicales Tradicionales;2019;76616;Riofrío;2030300;Café;Anual;2962.6;2924.6;3802.0;1.3
+Cultivos Tropicales Tradicionales;2019;76622;Roldanillo;2030300;Café;Anual;819.3;789.3;631.0;0.8
+Cultivos Tropicales Tradicionales;2019;76670;San Pedro;2030300;Café;Anual;513.9;498.9;399.0;0.8
+Cultivos Tropicales Tradicionales;2019;76736;Sevilla;2030300;Café;Anual;6317.0;6237.0;7484.0;1.2
+Cultivos Tropicales Tradicionales;2019;76823;Toro;2030300;Café;Anual;1520.0;1505.0;1505.0;1.0
+Cultivos Tropicales Tradicionales;2019;76828;Trujillo;2030300;Café;Anual;4115.7;3387.7;4065.0;1.2
+Cultivos Tropicales Tradicionales;2019;76834;Tuluá;2030300;Café;Anual;4110.0;4110.0;4110.0;1.0
+Cultivos Tropicales Tradicionales;2019;76845;Ulloa;2030300;Café;Anual;785.5;735.5;736.0;1.0
+Cultivos Tropicales Tradicionales;2019;76863;Versalles;2030300;Café;Anual;1244.4;1206.9;1086.0;0.9
+Cultivos Tropicales Tradicionales;2019;76869;Vijes;2030300;Café;Anual;647.0;620.0;496.0;0.8
+Cultivos Tropicales Tradicionales;2019;76890;Yotoco;2030300;Café;Anual;912.1;823.0;1070.0;1.3
+Cultivos Tropicales Tradicionales;2019;76892;Yumbo;2030300;Café;Anual;185.1;179.1;179.0;1.0
+Cultivos Tropicales Tradicionales;2020;76001;Cali;2030300;Café;Anual;646.0;576.0;672.0;1.17
+Cultivos Tropicales Tradicionales;2020;76020;Alcalá;2030300;Café;Anual;1190.0;860.0;1044.0;1.21
+Cultivos Tropicales Tradicionales;2020;76036;Andalucía;2030300;Café;Anual;205.0;187.0;209.0;1.12
+Cultivos Tropicales Tradicionales;2020;76041;Ansermanuevo;2030300;Café;Anual;3659.0;2927.0;3541.0;1.21
+Cultivos Tropicales Tradicionales;2020;76054;Argelia;2030300;Café;Anual;1551.0;1249.0;1514.0;1.21
+Cultivos Tropicales Tradicionales;2020;76100;Bolívar;2030300;Café;Anual;1281.0;1077.0;1290.0;1.2
+Cultivos Tropicales Tradicionales;2020;76111;Buga;2030300;Café;Anual;430.0;363.0;422.0;1.16
+Cultivos Tropicales Tradicionales;2020;76113;Bugalagrande;2030300;Café;Anual;1373.0;1080.0;1331.0;1.23
+Cultivos Tropicales Tradicionales;2020;76122;Caicedonia;2030300;Café;Anual;3566.0;2676.0;3303.0;1.23
+Cultivos Tropicales Tradicionales;2020;76126;Calima Darién;2030300;Café;Anual;334.0;286.0;345.0;1.21
+Cultivos Tropicales Tradicionales;2020;76147;Cartago;2030300;Café;Anual;303.0;252.0;300.0;1.19
+Cultivos Tropicales Tradicionales;2020;76233;Dagua;2030300;Café;Anual;894.0;790.0;946.0;1.2
+Cultivos Tropicales Tradicionales;2020;76243;El Águila;2030300;Café;Anual;4782.0;3828.0;4632.0;1.21
+Cultivos Tropicales Tradicionales;2020;76246;El Cairo;2030300;Café;Anual;2726.0;2331.0;2662.0;1.14
+Cultivos Tropicales Tradicionales;2020;76248;El Cerrito;2030300;Café;Anual;168.0;157.0;176.0;1.12
+Cultivos Tropicales Tradicionales;2020;76250;El Dovio;2030300;Café;Anual;569.0;528.0;604.0;1.14
+Cultivos Tropicales Tradicionales;2020;76275;Florida;2030300;Café;Anual;1309.0;1147.0;1330.0;1.16
+Cultivos Tropicales Tradicionales;2020;76306;Ginebra;2030300;Café;Anual;828.0;731.0;326.0;0.45
+Cultivos Tropicales Tradicionales;2020;76318;Guacarí;2030300;Café;Anual;540.0;427.0;256.0;0.6
+Cultivos Tropicales Tradicionales;2020;76364;Jamundí;2030300;Café;Anual;1179.0;857.0;520.0;0.61
+Cultivos Tropicales Tradicionales;2020;76377;La Cumbre;2030300;Café;Anual;602.0;538.0;633.0;1.18
+Cultivos Tropicales Tradicionales;2020;76400;La Unión;2030300;Café;Anual;423.0;380.0;429.0;1.13
+Cultivos Tropicales Tradicionales;2020;76403;La Victoria;2030300;Café;Anual;522.0;467.0;491.0;1.05
+Cultivos Tropicales Tradicionales;2020;76497;Obando;2030300;Café;Anual;856.0;749.0;827.0;1.1
+Cultivos Tropicales Tradicionales;2020;76520;Palmira;2030300;Café;Anual;290.0;247.0;284.0;1.15
+Cultivos Tropicales Tradicionales;2020;76563;Pradera;2030300;Café;Anual;435.0;435.0;522.0;1.2
+Cultivos Tropicales Tradicionales;2020;76606;Restrepo;2030300;Café;Anual;479.0;398.0;482.0;1.21
+Cultivos Tropicales Tradicionales;2020;76616;Riofrío;2030300;Café;Anual;2222.0;1922.0;2306.0;1.2
+Cultivos Tropicales Tradicionales;2020;76622;Roldanillo;2030300;Café;Anual;670.0;547.0;652.0;1.19
+Cultivos Tropicales Tradicionales;2020;76670;San Pedro;2030300;Café;Anual;463.0;387.0;220.0;0.57
+Cultivos Tropicales Tradicionales;2020;76736;Sevilla;2030300;Café;Anual;5243.0;5243.0;6292.0;1.2
+Cultivos Tropicales Tradicionales;2020;76823;Toro;2030300;Café;Anual;1049.0;1044.0;1253.0;1.2
+Cultivos Tropicales Tradicionales;2020;76828;Trujillo;2030300;Café;Anual;4011.0;3142.0;3815.0;1.21
+Cultivos Tropicales Tradicionales;2020;76834;Tuluá;2030300;Café;Anual;3201.0;2618.0;3109.0;1.19
+Cultivos Tropicales Tradicionales;2020;76845;Ulloa;2030300;Café;Anual;615.0;485.0;583.0;1.2
+Cultivos Tropicales Tradicionales;2020;76863;Versalles;2030300;Café;Anual;939.0;849.0;966.0;1.14
+Cultivos Tropicales Tradicionales;2020;76869;Vijes;2030300;Café;Anual;571.0;519.0;605.0;1.17
+Cultivos Tropicales Tradicionales;2020;76890;Yotoco;2030300;Café;Anual;806.0;644.0;791.0;1.23
+Cultivos Tropicales Tradicionales;2020;76892;Yumbo;2030300;Café;Anual;258.0;225.0;255.0;1.13
+Cultivos Tropicales Tradicionales;2021;76001;Cali;2030300;Café;Anual;657.13;586.79;534.0;0.91
+Cultivos Tropicales Tradicionales;2021;76020;Alcalá;2030300;Café;Anual;1183.7;889.62;907.0;1.02
+Cultivos Tropicales Tradicionales;2021;76036;Andalucía;2030300;Café;Anual;205.25;190.52;191.0;1.0
+Cultivos Tropicales Tradicionales;2021;76041;Ansermanuevo;2030300;Café;Anual;3685.15;3021.51;2478.0;0.82
+Cultivos Tropicales Tradicionales;2021;76054;Argelia;2030300;Café;Anual;1548.55;1313.16;1431.0;1.09
+Cultivos Tropicales Tradicionales;2021;76100;Bolívar;2030300;Café;Anual;1288.7;1098.26;999.0;0.91
+Cultivos Tropicales Tradicionales;2021;76111;Buga;2030300;Café;Anual;435.55;388.63;529.0;1.36
+Cultivos Tropicales Tradicionales;2021;76113;Bugalagrande;2030300;Café;Anual;1402.93;1148.23;1252.0;1.09
+Cultivos Tropicales Tradicionales;2021;76122;Caicedonia;2030300;Café;Anual;3580.92;2735.92;3420.0;1.25
+Cultivos Tropicales Tradicionales;2021;76126;Calima Darién;2030300;Café;Anual;330.46;280.36;381.0;1.36
+Cultivos Tropicales Tradicionales;2021;76147;Cartago;2030300;Café;Anual;304.48;247.31;270.0;1.09
+Cultivos Tropicales Tradicionales;2021;76233;Dagua;2030300;Café;Anual;898.33;782.61;845.0;1.08
+Cultivos Tropicales Tradicionales;2021;76243;El Águila;2030300;Café;Anual;4842.66;3980.66;3423.0;0.86
+Cultivos Tropicales Tradicionales;2021;76246;El Cairo;2030300;Café;Anual;2742.17;2367.46;2959.0;1.25
+Cultivos Tropicales Tradicionales;2021;76248;El Cerrito;2030300;Café;Anual;169.4;155.9;142.0;0.91
+Cultivos Tropicales Tradicionales;2021;76250;El Dovio;2030300;Café;Anual;573.57;516.82;563.0;1.09
+Cultivos Tropicales Tradicionales;2021;76275;Florida;2030300;Café;Anual;1326.64;1199.34;1091.0;0.91
+Cultivos Tropicales Tradicionales;2021;76306;Ginebra;2030300;Café;Anual;839.81;750.08;818.0;1.09
+Cultivos Tropicales Tradicionales;2021;76318;Guacarí;2030300;Café;Anual;541.34;459.27;459.0;1.0
+Cultivos Tropicales Tradicionales;2021;76364;Jamundí;2030300;Café;Anual;1194.17;908.79;745.0;0.82
+Cultivos Tropicales Tradicionales;2021;76377;La Cumbre;2030300;Café;Anual;597.74;499.34;679.0;1.36
+Cultivos Tropicales Tradicionales;2021;76400;La Unión;2030300;Café;Anual;424.08;393.83;358.0;0.91
+Cultivos Tropicales Tradicionales;2021;76403;La Victoria;2030300;Café;Anual;523.92;475.63;214.0;0.45
+Cultivos Tropicales Tradicionales;2021;76497;Obando;2030300;Café;Anual;862.99;756.78;689.0;0.91
+Cultivos Tropicales Tradicionales;2021;76520;Palmira;2030300;Café;Anual;299.93;261.0;284.0;1.09
+Cultivos Tropicales Tradicionales;2021;76563;Pradera;2030300;Café;Anual;447.53;404.79;551.0;1.36
+Cultivos Tropicales Tradicionales;2021;76606;Restrepo;2030300;Café;Anual;485.69;406.32;370.0;0.91
+Cultivos Tropicales Tradicionales;2021;76616;Riofrío;2030300;Café;Anual;2160.5;1688.21;1790.0;1.06
+Cultivos Tropicales Tradicionales;2021;76622;Roldanillo;2030300;Café;Anual;661.97;574.62;575.0;1.0
+Cultivos Tropicales Tradicionales;2021;76670;San Pedro;2030300;Café;Anual;467.49;413.85;302.0;0.73
+Cultivos Tropicales Tradicionales;2021;76736;Sevilla;2030300;Café;Anual;5259.49;4034.49;4034.0;1.0
+Cultivos Tropicales Tradicionales;2021;76823;Toro;2030300;Café;Anual;1056.12;907.44;989.0;1.09
+Cultivos Tropicales Tradicionales;2021;76828;Trujillo;2030300;Café;Anual;4034.27;3183.94;3184.0;1.0
+Cultivos Tropicales Tradicionales;2021;76834;Tuluá;2030300;Café;Anual;3159.48;2638.52;2639.0;1.0
+Cultivos Tropicales Tradicionales;2021;76845;Ulloa;2030300;Café;Anual;615.69;500.69;546.0;1.09
+Cultivos Tropicales Tradicionales;2021;76863;Versalles;2030300;Café;Anual;938.0;855.89;856.0;1.0
+Cultivos Tropicales Tradicionales;2021;76869;Vijes;2030300;Café;Anual;567.6;511.59;420.0;0.82
+Cultivos Tropicales Tradicionales;2021;76890;Yotoco;2030300;Café;Anual;811.4;632.7;690.0;1.09
+Cultivos Tropicales Tradicionales;2021;76892;Yumbo;2030300;Café;Anual;260.14;228.06;235.0;1.03
+Cultivos Tropicales Tradicionales;2022;76001;Cali;2030300;Café;Anual;663.64;602.73;496.16;0.82
+Cultivos Tropicales Tradicionales;2022;76020;Alcalá;2030300;Café;Anual;1189.59;903.23;714.99;0.79
+Cultivos Tropicales Tradicionales;2022;76036;Andalucía;2030300;Café;Anual;205.28;188.78;76.73;0.41
+Cultivos Tropicales Tradicionales;2022;76041;Ansermanuevo;2030300;Café;Anual;3737.23;3098.5;3338.92;1.08
+Cultivos Tropicales Tradicionales;2022;76054;Argelia;2030300;Café;Anual;1566.25;1382.94;1162.72;0.84
+Cultivos Tropicales Tradicionales;2022;76100;Bolívar;2030300;Café;Anual;1297.56;1109.99;963.96;0.87
+Cultivos Tropicales Tradicionales;2022;76111;Buga;2030300;Café;Anual;437.0;392.52;460.4;1.17
+Cultivos Tropicales Tradicionales;2022;76113;Bugalagrande;2030300;Café;Anual;1421.33;1220.72;1059.27;0.87
+Cultivos Tropicales Tradicionales;2022;76122;Caicedonia;2030300;Café;Anual;3609.19;2850.43;811.12;0.28
+Cultivos Tropicales Tradicionales;2022;76126;Calima Darién;2030300;Café;Anual;334.42;290.74;337.28;1.16
+Cultivos Tropicales Tradicionales;2022;76147;Cartago;2030300;Café;Anual;304.97;256.76;242.37;0.94
+Cultivos Tropicales Tradicionales;2022;76233;Dagua;2030300;Café;Anual;889.68;784.63;678.28;0.86
+Cultivos Tropicales Tradicionales;2022;76243;El Águila;2030300;Café;Anual;4907.74;4071.75;3290.76;0.81
+Cultivos Tropicales Tradicionales;2022;76246;El Cairo;2030300;Café;Anual;2764.68;2426.38;1195.4;0.49
+Cultivos Tropicales Tradicionales;2022;76248;El Cerrito;2030300;Café;Anual;165.25;151.48;116.39;0.77
+Cultivos Tropicales Tradicionales;2022;76250;El Dovio;2030300;Café;Anual;574.27;519.98;389.76;0.75
+Cultivos Tropicales Tradicionales;2022;76275;Florida;2030300;Café;Anual;1338.18;1219.5;856.9;0.7
+Cultivos Tropicales Tradicionales;2022;76306;Ginebra;2030300;Café;Anual;857.15;772.76;634.09;0.82
+Cultivos Tropicales Tradicionales;2022;76318;Guacarí;2030300;Café;Anual;544.16;496.83;408.73;0.82
+Cultivos Tropicales Tradicionales;2022;76364;Jamundí;2030300;Café;Anual;1217.85;950.14;721.32;0.76
+Cultivos Tropicales Tradicionales;2022;76377;La Cumbre;2030300;Café;Anual;593.56;484.24;613.79;1.27
+Cultivos Tropicales Tradicionales;2022;76400;La Unión;2030300;Café;Anual;431.89;396.81;372.46;0.94
+Cultivos Tropicales Tradicionales;2022;76403;La Victoria;2030300;Café;Anual;525.5;457.38;178.01;0.39
+Cultivos Tropicales Tradicionales;2022;76497;Obando;2030300;Café;Anual;875.66;777.38;651.59;0.84
+Cultivos Tropicales Tradicionales;2022;76520;Palmira;2030300;Café;Anual;310.9;271.68;246.84;0.91
+Cultivos Tropicales Tradicionales;2022;76563;Pradera;2030300;Café;Anual;454.04;415.35;405.49;0.98
+Cultivos Tropicales Tradicionales;2022;76606;Restrepo;2030300;Café;Anual;493.2;403.75;366.72;0.91
+Cultivos Tropicales Tradicionales;2022;76616;Riofrío;2030300;Café;Anual;2202.76;1800.26;1631.26;0.91
+Cultivos Tropicales Tradicionales;2022;76622;Roldanillo;2030300;Café;Anual;663.82;569.29;499.81;0.88
+Cultivos Tropicales Tradicionales;2022;76670;San Pedro;2030300;Café;Anual;465.76;425.62;138.78;0.33
+Cultivos Tropicales Tradicionales;2022;76736;Sevilla;2030300;Café;Anual;5259.98;4071.57;6353.8;1.56
+Cultivos Tropicales Tradicionales;2022;76823;Toro;2030300;Café;Anual;1076.74;919.99;869.18;0.94
+Cultivos Tropicales Tradicionales;2022;76828;Trujillo;2030300;Café;Anual;3605.94;2775.2;2367.48;0.85
+Cultivos Tropicales Tradicionales;2022;76834;Tuluá;2030300;Café;Anual;3202.29;2732.09;2624.09;0.96
+Cultivos Tropicales Tradicionales;2022;76845;Ulloa;2030300;Café;Anual;622.37;503.29;486.13;0.97
+Cultivos Tropicales Tradicionales;2022;76863;Versalles;2030300;Café;Anual;932.52;875.96;708.23;0.81
+Cultivos Tropicales Tradicionales;2022;76869;Vijes;2030300;Café;Anual;569.99;500.87;312.65;0.62
+Cultivos Tropicales Tradicionales;2022;76890;Yotoco;2030300;Café;Anual;826.3;627.87;159.28;0.25
+Cultivos Tropicales Tradicionales;2022;76892;Yumbo;2030300;Café;Anual;257.1;229.84;152.62;0.66
+Cultivos Tropicales Tradicionales;2023;76001;Cali;2030300;Café;Anual;645.11;596.64;576.41;0.97
+Cultivos Tropicales Tradicionales;2023;76020;Alcalá;2030300;Café;Anual;1191.51;837.19;797.25;0.95
+Cultivos Tropicales Tradicionales;2023;76036;Andalucía;2030300;Café;Anual;193.85;166.73;43.74;0.26
+Cultivos Tropicales Tradicionales;2023;76041;Ansermanuevo;2030300;Café;Anual;3783.2;3144.28;2901.43;0.92
+Cultivos Tropicales Tradicionales;2023;76054;Argelia;2030300;Café;Anual;1555.54;1371.25;1446.32;1.05
+Cultivos Tropicales Tradicionales;2023;76100;Bolívar;2030300;Café;Anual;1255.7;1072.44;864.16;0.81
+Cultivos Tropicales Tradicionales;2023;76111;Buga;2030300;Café;Anual;441.64;411.97;535.01;1.3
+Cultivos Tropicales Tradicionales;2023;76113;Bugalagrande;2030300;Café;Anual;1432.33;1188.51;1226.85;1.03
+Cultivos Tropicales Tradicionales;2023;76122;Caicedonia;2030300;Café;Anual;3614.37;2822.5;698.13;0.25
+Cultivos Tropicales Tradicionales;2023;76126;Calima Darién;2030300;Café;Anual;333.08;300.3;432.83;1.44
+Cultivos Tropicales Tradicionales;2023;76147;Cartago;2030300;Café;Anual;305.9;263.33;80.0;0.3
+Cultivos Tropicales Tradicionales;2023;76233;Dagua;2030300;Café;Anual;867.2;784.97;778.02;0.99
+Cultivos Tropicales Tradicionales;2023;76243;El Águila;2030300;Café;Anual;4929.77;4047.68;3862.6;0.95
+Cultivos Tropicales Tradicionales;2023;76246;El Cairo;2030300;Café;Anual;2727.25;2398.1;1184.66;0.49
+Cultivos Tropicales Tradicionales;2023;76248;El Cerrito;2030300;Café;Anual;76.71;62.42;130.05;2.08
+Cultivos Tropicales Tradicionales;2023;76250;El Dovio;2030300;Café;Anual;558.28;514.94;595.39;1.16
+Cultivos Tropicales Tradicionales;2023;76275;Florida;2030300;Café;Anual;1333.16;1234.03;1053.2;0.85
+Cultivos Tropicales Tradicionales;2023;76306;Ginebra;2030300;Café;Anual;807.98;716.1;732.08;1.02
+Cultivos Tropicales Tradicionales;2023;76318;Guacarí;2030300;Café;Anual;548.9;498.37;432.14;0.87
+Cultivos Tropicales Tradicionales;2023;76364;Jamundí;2030300;Café;Anual;1233.85;964.34;1043.42;1.08
+Cultivos Tropicales Tradicionales;2023;76377;La Cumbre;2030300;Café;Anual;593.09;519.97;674.78;1.3
+Cultivos Tropicales Tradicionales;2023;76400;La Unión;2030300;Café;Anual;418.68;373.51;245.44;0.66
+Cultivos Tropicales Tradicionales;2023;76403;La Victoria;2030300;Café;Anual;538.3;432.75;40.02;0.09
+Cultivos Tropicales Tradicionales;2023;76497;Obando;2030300;Café;Anual;888.98;778.21;765.76;0.98
+Cultivos Tropicales Tradicionales;2023;76520;Palmira;2030300;Café;Anual;174.36;144.49;282.49;1.96
+Cultivos Tropicales Tradicionales;2023;76563;Pradera;2030300;Café;Anual;211.46;174.31;516.17;2.96
+Cultivos Tropicales Tradicionales;2023;76606;Restrepo;2030300;Café;Anual;503.5;403.42;415.56;1.03
+Cultivos Tropicales Tradicionales;2023;76616;Riofrío;2030300;Café;Anual;2210.18;1841.5;1283.25;0.7
+Cultivos Tropicales Tradicionales;2023;76622;Roldanillo;2030300;Café;Anual;616.49;530.87;579.6;1.09
+Cultivos Tropicales Tradicionales;2023;76670;San Pedro;2030300;Café;Anual;470.38;425.45;91.64;0.22
+Cultivos Tropicales Tradicionales;2023;76736;Sevilla;2030300;Café;Anual;5253.18;4031.14;5340.83;1.32
+Cultivos Tropicales Tradicionales;2023;76823;Toro;2030300;Café;Anual;1093.51;897.01;244.67;0.27
+Cultivos Tropicales Tradicionales;2023;76828;Trujillo;2030300;Café;Anual;3647.15;2860.47;2615.69;0.91
+Cultivos Tropicales Tradicionales;2023;76834;Tuluá;2030300;Café;Anual;3252.37;2778.57;2800.37;1.01
+Cultivos Tropicales Tradicionales;2023;76845;Ulloa;2030300;Café;Anual;619.06;498.05;73.38;0.15
+Cultivos Tropicales Tradicionales;2023;76863;Versalles;2030300;Café;Anual;909.96;832.14;815.48;0.98
+Cultivos Tropicales Tradicionales;2023;76869;Vijes;2030300;Café;Anual;551.86;487.01;445.46;0.91
+Cultivos Tropicales Tradicionales;2023;76890;Yotoco;2030300;Café;Anual;822.99;650.04;695.4;1.07
+Cultivos Tropicales Tradicionales;2023;76892;Yumbo;2030300;Café;Anual;251.84;224.23;71.07;0.32
+Cultivos tropicales tradicionales;2024;76001;Cali;2030300;Café;Anual;635.34;583.06;700.02;1.2
+Cultivos tropicales tradicionales;2024;76020;Alcalá;2030300;Café;Anual;1198.14;843.21;939.3;1.11
+Cultivos tropicales tradicionales;2024;76036;Andalucía;2030300;Café;Anual;190.08;163.4;50.56;0.31
+Cultivos tropicales tradicionales;2024;76041;Ansermanuevo;2030300;Café;Anual;3807.62;3071.24;3497.24;1.14
+Cultivos tropicales tradicionales;2024;76054;Argelia;2030300;Café;Anual;1558.15;1335.07;1735.07;1.3
+Cultivos tropicales tradicionales;2024;76100;Bolívar;2030300;Café;Anual;1269.18;1055.74;1058.44;1.0
+Cultivos tropicales tradicionales;2024;76111;Buga;2030300;Café;Anual;443.6;417.28;671.42;1.61
+Cultivos tropicales tradicionales;2024;76113;Bugalagrande;2030300;Café;Anual;1434.84;1128.83;1439.09;1.27
+Cultivos tropicales tradicionales;2024;76122;Caicedonia;2030300;Café;Anual;3583.03;2821.4;873.03;0.31
+Cultivos tropicales tradicionales;2024;76126;Calima Darién;2030300;Café;Anual;339.23;293.28;522.72;1.78
+Cultivos tropicales tradicionales;2024;76147;Cartago;2030300;Café;Anual;305.76;266.05;395.16;1.49
+Cultivos tropicales tradicionales;2024;76233;Dagua;2030300;Café;Anual;870.31;783.43;959.98;1.23
+Cultivos tropicales tradicionales;2024;76243;El Águila;2030300;Café;Anual;4959.64;3914.83;4603.21;1.18
+Cultivos tropicales tradicionales;2024;76246;El Cairo;2030300;Café;Anual;2723.04;2307.23;1399.3;0.61
+Cultivos tropicales tradicionales;2024;76248;El Cerrito;2030300;Café;Anual;78.37;66.8;140.56;2.1
+Cultivos tropicales tradicionales;2024;76250;El Dovio;2030300;Café;Anual;554.23;500.76;718.97;1.44
+Cultivos tropicales tradicionales;2024;76275;Florida;2030300;Café;Anual;1336.11;1162.43;1222.96;1.05
+Cultivos tropicales tradicionales;2024;76306;Ginebra;2030300;Café;Anual;807.57;694.81;877.19;1.26
+Cultivos tropicales tradicionales;2024;76318;Guacarí;2030300;Café;Anual;553.54;493.09;530.97;1.08
+Cultivos tropicales tradicionales;2024;76364;Jamundí;2030300;Café;Anual;1218.2;918.25;1227.46;1.34
+Cultivos tropicales tradicionales;2024;76377;La Cumbre;2030300;Café;Anual;592.56;524.14;843.36;1.61
+Cultivos tropicales tradicionales;2024;76400;La Unión;2030300;Café;Anual;416.98;366.73;299.58;0.82
+Cultivos tropicales tradicionales;2024;76403;La Victoria;2030300;Café;Anual;542.98;423.86;472.15;1.11
+Cultivos tropicales tradicionales;2024;76497;Obando;2030300;Café;Anual;895.84;784.3;951.33;1.21
+Cultivos tropicales tradicionales;2024;76520;Palmira;2030300;Café;Anual;181.3;145.32;224.83;1.55
+Cultivos tropicales tradicionales;2024;76563;Pradera;2030300;Café;Anual;222.37;167.61;269.69;1.61
+Cultivos tropicales tradicionales;2024;76606;Restrepo;2030300;Café;Anual;506.49;401.38;511.7;1.27
+Cultivos tropicales tradicionales;2024;76616;Riofrío;2030300;Café;Anual;2219.55;1810.79;1568.88;0.87
+Cultivos tropicales tradicionales;2024;76622;Roldanillo;2030300;Café;Anual;620.43;510.43;688.63;1.35
+Cultivos tropicales tradicionales;2024;76670;San Pedro;2030300;Café;Anual;470.2;403.24;109.8;0.27
+Cultivos tropicales tradicionales;2024;76736;Sevilla;2030300;Café;Anual;5203.28;4026.76;7974.44;1.98
+Cultivos tropicales tradicionales;2024;76823;Toro;2030300;Café;Anual;1100.0;887.08;296.45;0.33
+Cultivos tropicales tradicionales;2024;76828;Trujillo;2030300;Café;Anual;3674.84;2843.89;3203.16;1.13
+Cultivos tropicales tradicionales;2024;76834;Tuluá;2030300;Café;Anual;3277.99;2707.42;3384.55;1.25
+Cultivos tropicales tradicionales;2024;76845;Ulloa;2030300;Café;Anual;620.39;516.46;95.89;0.19
+Cultivos tropicales tradicionales;2024;76863;Versalles;2030300;Café;Anual;912.81;782.29;948.89;1.21
+Cultivos tropicales tradicionales;2024;76869;Vijes;2030300;Café;Anual;531.79;466.85;525.82;1.13
+Cultivos tropicales tradicionales;2024;76890;Yotoco;2030300;Café;Anual;834.76;660.91;875.28;1.32
+Cultivos tropicales tradicionales;2024;76892;Yumbo;2030300;Café;Anual;241.31;208.64;82.63;0.4

@@ -6,68 +6,79 @@
 
 ## 2. Problemática
 
-La producción de café puede variar de una cosecha a otra debido a diferentes factores, como las condiciones climáticas, la cantidad de lluvia, la temperatura, el área cultivada, la altitud y la producción obtenida anteriormente.
+La producción cafetera es una actividad agrícola importante en el norte del Valle del Cauca. Los productores pueden presentar dificultades para estimar con anticipación la cantidad de café que obtendrán en una cosecha, debido a factores como las condiciones climáticas, la temperatura, las precipitaciones, el área cultivada, la altitud y el comportamiento de cosechas anteriores.
 
-Esta variación puede dificultar que los productores conozcan con anticipación la cantidad aproximada de café que podrán obtener en una cosecha, lo que puede afectar la planificación de recursos, mano de obra, costos y comercialización.
+En el contexto de **Cartago, Valle del Cauca**, y su zona de influencia rural y cafetera, contar con una herramienta que permita realizar estimaciones de producción podría apoyar la planificación de recursos, mano de obra, costos y comercialización.
 
-Por esta razón, se propone desarrollar un sistema de Inteligencia Artificial que permita analizar datos relacionados con los cultivos de café y utilizar esta información para realizar una predicción aproximada de la producción.
+Por esta razón, se propone desarrollar un sistema de Inteligencia Artificial que analice datos históricos y características de los cultivos para realizar una predicción aproximada de la producción de café.
 
 ## 3. Datos
 
-Para desarrollar el proyecto se necesitarán datos relacionados con la producción y las características de los cultivos cafeteros.
+El sistema necesitará información relacionada con las características de los cultivos y su producción histórica.
 
-Los principales datos que se podrían utilizar son:
+### Datos necesarios
 
 - Área cultivada.
 - Temperatura promedio.
 - Cantidad de precipitación o lluvia.
-- Altitud del cultivo.
+- Altitud.
 - Producción de café de cosechas anteriores.
 - Año o periodo de cosecha.
 - Cantidad de café producido.
 
-Los datos podrán obtenerse de fuentes de datos abiertos, información agrícola disponible públicamente y conjuntos de datos utilizados con fines académicos.
+### Fuente de los datos
 
-La información será organizada en archivos CSV para posteriormente ser procesada mediante Python.
+Los datos podrán obtenerse de:
+
+- Datos abiertos de entidades oficiales.
+- Información agrícola disponible públicamente.
+- Archivos CSV.
+- Conjuntos de datos utilizados con fines académicos.
+- Otras fuentes públicas relacionadas con producción agrícola y cafetera.
+
+La información será organizada y procesada mediante Python.
+
+> **Nota:** Durante el desarrollo se verificará la disponibilidad de datos específicos para Cartago, Valle del Cauca. Si no existe suficiente información local, se utilizarán datos de referencia de la región cafetera colombiana para construir y evaluar el modelo con fines académicos.
 
 ## 4. Objetivo
 
 ### Objetivo general
 
-Desarrollar un sistema de Inteligencia Artificial utilizando Python y Machine Learning que permita predecir la cantidad aproximada de café que puede producirse en una cosecha, utilizando datos históricos y características del cultivo.
+Desarrollar un sistema de Inteligencia Artificial utilizando Python y técnicas de Machine Learning que permita predecir la cantidad aproximada de café que puede producirse en una cosecha, utilizando datos históricos y características del cultivo.
 
 ### Objetivos específicos
 
 - Recopilar y organizar datos relacionados con la producción cafetera.
-- Analizar los datos para identificar posibles relaciones entre las características del cultivo y su producción.
-- Preparar los datos utilizando herramientas de Python.
+- Analizar los datos para identificar relaciones entre las características del cultivo y su producción.
+- Preparar y procesar los datos utilizando Python.
 - Entrenar un modelo de Machine Learning para realizar predicciones.
-- Evaluar el desempeño del modelo.
-- Mostrar los resultados mediante gráficos y predicciones.
+- Evaluar el desempeño del modelo mediante métricas apropiadas.
+- Generar predicciones de producción para nuevos datos.
+- Representar los resultados mediante gráficos.
 
-## 5. Modelo de Inteligencia Artificial
+## 5. Inteligencia Artificial y Machine Learning
 
-Para realizar la predicción se propone utilizar el algoritmo **Random Forest Regressor**, perteneciente a la biblioteca Scikit-learn.
+El proyecto utilizará **Machine Learning**, una rama de la Inteligencia Artificial que permite desarrollar modelos capaces de identificar patrones a partir de datos históricos y utilizar dichos patrones para realizar predicciones sobre nuevos datos.
 
-Este modelo será utilizado porque el objetivo del proyecto es predecir un valor numérico, que corresponde a la cantidad aproximada de café producido en kilogramos.
+Para la predicción de la producción cafetera se propone utilizar **Random Forest Regressor**, un algoritmo de Machine Learning orientado a problemas de regresión.
 
-El funcionamiento esperado será:
+El modelo recibirá características del cultivo como área cultivada, temperatura, precipitación, altitud y producción anterior, y tendrá como objetivo predecir la cantidad de café producida en kilogramos.
 
-**Datos del cultivo → Modelo de IA → Producción estimada**
-
-Ejemplo:
+El proceso general será:
 
 ```text
-Área cultivada: 3 hectáreas
-Temperatura: 21 °C
-Precipitación: 200 mm
-Altitud: 1500 m
-Producción anterior: 2200 kg
-
-              ↓
-
-       MODELO DE IA
-
-              ↓
-
-Producción estimada: 2350 kg
+Datos históricos
+       ↓
+Preparación y limpieza de datos
+       ↓
+División de datos
+       ↓
+Entrenamiento del modelo
+       ↓
+Random Forest Regressor
+       ↓
+Evaluación del modelo
+       ↓
+Nuevos datos
+       ↓
+Predicción de producción

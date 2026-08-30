@@ -38,7 +38,7 @@ Los datos podrán obtenerse de:
 
 La información será organizada y procesada mediante Python.
 
-> **Nota:** Durante el desarrollo se verificará la disponibilidad de datos específicos para Cartago, Valle del Cauca. Si no existe suficiente información local, se utilizarán datos de referencia de la región cafetera colombiana para construir y evaluar el modelo con fines académicos.
+> Durante el desarrollo se verificará la disponibilidad de datos específicos para Cartago, Valle del Cauca. Si no existe suficiente información local, se utilizarán datos de referencia de la región cafetera colombiana para construir y evaluar el modelo con fines académicos.
 
 ## 4. Objetivo
 

@@ -4,8 +4,6 @@
 
 **Predicción de la Producción de Café en Cartago, Valle del Cauca**
 
----
-
 ## 2. Descripción del proyecto
 
 Este proyecto de Inteligencia Artificial tiene como propósito analizar el comportamiento histórico de la producción de café en el municipio de Cartago, Valle del Cauca.
@@ -14,8 +12,6 @@ Se utilizan datos agrícolas reales para realizar un proceso de carga, limpieza,
 
 El análisis realizado en este primer avance permitirá establecer una base para desarrollar posteriormente un modelo capaz de predecir la producción de café.
 
----
-
 ## 3. Problema
 
 La producción de café puede presentar variaciones importantes entre diferentes años debido a cambios en las áreas sembradas, áreas cosechadas y otros factores relacionados con la actividad agrícola.
@@ -23,8 +19,6 @@ La producción de café puede presentar variaciones importantes entre diferentes
 En Cartago, Valle del Cauca, contar con una estimación de la producción futura puede ser útil para apoyar la planificación de las actividades relacionadas con la producción agrícola.
 
 Por esta razón, este proyecto busca analizar los datos históricos de producción de café de Cartago y utilizar esta información como base para desarrollar posteriormente un sistema que permita realizar predicciones.
-
----
 
 ## 4. Objetivo general
 
@@ -42,7 +36,6 @@ Desarrollar una base de análisis de datos que permita posteriormente construir 
 - Identificar patrones y hallazgos importantes en los datos.
 - Utilizar los resultados como base para desarrollar posteriormente un modelo de Machine Learning.
 
----
 
 # 5. Datos utilizados
 
@@ -61,8 +54,6 @@ Dataset:
 
 El conjunto de datos contiene información sobre cultivos permanentes registrados en diferentes municipios del departamento.
 
----
-
 ## 6. Estructura de los datos
 
 El archivo utilizado es un archivo **CSV**.
@@ -79,7 +70,6 @@ Entre las principales variables utilizadas se encuentran:
 | Produccion_toneladas | Producción obtenida en toneladas |
 | Rendimiento_toneladas/hectareas | Rendimiento de producción por hectárea |
 
----
 
 ## 7. Cantidad de datos
 
@@ -90,7 +80,6 @@ Después de realizar la carga y filtrado de los datos se obtuvieron:
 - Periodo analizado en Cartago: **2000 - 2024**.
 - El archivo contiene **11 columnas**.
 
----
 
 # 8. Tecnologías utilizadas
 
@@ -105,7 +94,7 @@ El proyecto utiliza las siguientes herramientas:
 - **GitHub:** almacenamiento y seguimiento del proyecto.
 - **Docker:** configuración del entorno de ejecución.
 
----
+
 
 # 9. Carga del archivo CSV
 
@@ -123,7 +112,6 @@ datos = pd.read_csv(
 )
 ```
 
----
 
 # 10. Filtrado de los datos
 
@@ -156,7 +144,6 @@ cartago = cafe[
 
 Como resultado se obtuvieron 25 registros históricos de producción de café en Cartago.
 
----
 
 # 11. Lista de diccionarios
 
@@ -187,7 +174,6 @@ Cada diccionario representa un registro y contiene información como:
 
 Esto permite trabajar los datos utilizando estructuras propias de Python.
 
----
 
 # 12. Función creada
 
@@ -217,8 +203,6 @@ La función recibe una lista de valores de producción y utiliza NumPy para calc
 
 La función es utilizada dentro del análisis exploratorio del proyecto.
 
----
-
 # 13. Análisis exploratorio con NumPy
 
 Para analizar el comportamiento de la producción de café en Cartago se utilizó la biblioteca NumPy.
@@ -243,7 +227,6 @@ La producción promedio durante el periodo analizado fue de 385.50 toneladas.
 
 La desviación estándar de 272.18 toneladas indica que existe una variación considerable entre los diferentes registros de producción.
 
----
 
 # 14. Visualización con Matplotlib
 
@@ -278,7 +261,7 @@ plt.legend()
 
 El gráfico se guarda automáticamente en: `data/eda_cartago_produccion.png`
 
----
+
 
 # 15. Hallazgos principales
 
@@ -294,7 +277,6 @@ La diferencia entre la producción máxima y mínima muestra que la producción 
 
 Este comportamiento demuestra que existe información histórica que puede ser utilizada posteriormente para desarrollar un modelo de predicción.
 
----
 
 # 16. Script principal del análisis
 
@@ -316,8 +298,6 @@ Para ejecutar el análisis use el comando:
 ```bash
 python src/eda.py
 ```
-
----
 
 # 17. Estructura del proyecto
 

@@ -8,27 +8,29 @@
 
 ## 2. Descripción del proyecto
 
-Este proyecto de Inteligencia Artificial tiene como propósito analizar el comportamiento histórico de la producción de café en el municipio de **Cartago, Valle del Cauca**.
+Este proyecto de Inteligencia Artificial tiene como propósito analizar el comportamiento histórico de la producción de café en el municipio de **Cartago, Valle del Cauca**, y desarrollar un modelo de Machine Learning capaz de realizar estimaciones de producción.
 
-Para ello se utilizan datos agrícolas reales del departamento, los cuales son cargados, limpiados, organizados y analizados mediante Python.
+Para ello se utilizan datos agrícolas reales del departamento del Valle del Cauca, los cuales son cargados, limpiados, organizados y analizados mediante Python.
 
-En este primer avance se realiza el **manejo de datos y análisis exploratorio (EDA)** utilizando listas, diccionarios, NumPy y Matplotlib. Los resultados obtenidos servirán como base para desarrollar posteriormente un modelo de Machine Learning capaz de realizar predicciones sobre la producción de café.
+El proyecto incluye una etapa de **análisis exploratorio de datos (EDA)** utilizando Pandas, listas, diccionarios, NumPy y Matplotlib, seguida de una etapa de **Machine Learning** utilizando Scikit-learn.
+
+El modelo desarrollado utiliza información histórica sobre el año, las hectáreas sembradas, las hectáreas cosechadas y el municipio para estimar la producción de café en toneladas.
 
 ---
 
-## 3. Problemática
+# 3. Problemática
 
 La producción agrícola puede presentar variaciones importantes entre diferentes años. Estas variaciones pueden estar relacionadas con factores como el área sembrada, el área cosechada y las condiciones propias de la actividad agrícola.
 
-En **Cartago, Valle del Cauca**, analizar el comportamiento histórico de la producción de café permite identificar cambios y tendencias que pueden ser utilizados como información de apoyo para la planificación de futuras cosechas.
+En **Cartago, Valle del Cauca**, analizar el comportamiento histórico de la producción de café permite identificar cambios y tendencias que pueden utilizarse como información de apoyo para la planificación de futuras cosechas.
 
-Por esta razón, el proyecto busca analizar los datos históricos disponibles y establecer una base de información que posteriormente permita construir un sistema de **predicción de la producción de café**.
+Por esta razón, el proyecto busca analizar los datos históricos disponibles y utilizar esta información para construir un sistema de **estimación de la producción de café mediante Machine Learning**.
 
 ---
 
-## 4. Objetivo general
+# 4. Objetivo general
 
-Desarrollar una base de análisis de datos que permita posteriormente construir un sistema capaz de **predecir la producción de café en Cartago, Valle del Cauca**, utilizando información histórica agrícola.
+Desarrollar un sistema de análisis y Machine Learning que permita **estimar la producción de café en Cartago, Valle del Cauca**, utilizando información histórica agrícola.
 
 ### Objetivos específicos
 
@@ -41,7 +43,10 @@ Desarrollar una base de análisis de datos que permita posteriormente construir 
 * Calcular estadísticas utilizando NumPy.
 * Generar visualizaciones utilizando Matplotlib.
 * Identificar hallazgos relevantes en los datos.
-* Utilizar los resultados del análisis como base para desarrollar posteriormente un modelo de Machine Learning.
+* Preparar las variables utilizadas por el modelo.
+* Entrenar un modelo de Machine Learning.
+* Evaluar el modelo mediante métricas de rendimiento.
+* Realizar estimaciones de producción para Cartago.
 
 ---
 
@@ -49,7 +54,7 @@ Desarrollar una base de análisis de datos que permita posteriormente construir 
 
 El proyecto utiliza información agrícola real del **Valle del Cauca**.
 
-El conjunto de datos contiene información histórica de diferentes cultivos y municipios del departamento. Para este proyecto se seleccionaron los registros correspondientes al cultivo de **café** y posteriormente se filtraron los registros correspondientes al municipio de **Cartago**.
+El conjunto de datos contiene información histórica de diferentes cultivos y municipios del departamento. Para este proyecto se seleccionaron los registros correspondientes al cultivo de **café** y posteriormente se identificaron los registros correspondientes al municipio de **Cartago**.
 
 ### Fuente de los datos
 
@@ -67,7 +72,7 @@ Los datos contienen información relacionada con cultivos permanentes registrado
 
 El archivo principal utilizado es un archivo **CSV**.
 
-Entre las variables utilizadas en el análisis se encuentran:
+Entre las variables utilizadas en el proyecto se encuentran:
 
 | Variable                          | Descripción                            |
 | --------------------------------- | -------------------------------------- |
@@ -79,7 +84,7 @@ Entre las variables utilizadas en el análisis se encuentran:
 | `Produccion_toneladas`            | Producción obtenida en toneladas       |
 | `Rendimiento_toneladas/hectareas` | Rendimiento de producción por hectárea |
 
-El archivo utilizado para el análisis exploratorio es:
+El archivo utilizado para el análisis es:
 
 ```text
 data/cafe_valle_limpio.csv
@@ -89,14 +94,15 @@ data/cafe_valle_limpio.csv
 
 # 7. Cantidad de datos
 
-Después del proceso de carga y filtrado se obtuvieron los siguientes resultados:
+Después del proceso de carga y limpieza se obtuvieron los siguientes resultados:
 
 * **969 registros** correspondientes al cultivo de café en el Valle del Cauca.
+* **39 municipios** representados en los datos de café.
 * **25 registros** correspondientes al cultivo de café en Cartago.
 * Periodo analizado en Cartago: **2000 a 2024**.
 * El archivo contiene **11 columnas**.
 
-Estos datos permiten analizar el comportamiento histórico de la producción de café en el municipio.
+Estos datos permiten analizar el comportamiento histórico de la producción de café y utilizar la información para entrenar un modelo de Machine Learning.
 
 ---
 
@@ -108,7 +114,7 @@ El proyecto utiliza las siguientes herramientas:
 * **Pandas:** carga, limpieza y manipulación de datos.
 * **NumPy:** cálculo de estadísticas.
 * **Matplotlib:** generación de gráficos.
-* **Scikit-learn:** desarrollo posterior del modelo de Machine Learning.
+* **Scikit-learn:** desarrollo del modelo de Machine Learning.
 * **Git:** control de versiones.
 * **GitHub:** almacenamiento y seguimiento del código.
 * **Docker:** configuración del entorno de ejecución.
@@ -125,38 +131,29 @@ requirements.txt
 
 El archivo CSV se carga utilizando Pandas.
 
-En el análisis exploratorio se utiliza:
+El dataset original utiliza `;` como separador y codificación `latin1`.
+
+Ejemplo:
 
 ```python
 import pandas as pd
 
 datos = pd.read_csv(
-    "data/cafe_valle_limpio.csv",
+    "data/produccion_cafetera_valle.csv",
     sep=";",
-    encoding="utf-8"
+    encoding="latin1"
 )
 ```
 
-También se contempla la codificación `latin1` en caso de que el archivo presente problemas de codificación:
+Durante el procesamiento también se genera el archivo limpio:
 
-```python
-try:
-    datos = pd.read_csv(
-        archivo,
-        sep=";",
-        encoding="utf-8"
-    )
-except UnicodeDecodeError:
-    datos = pd.read_csv(
-        archivo,
-        sep=";",
-        encoding="latin1"
-    )
+```text
+data/cafe_valle_limpio.csv
 ```
 
 ---
 
-# 10. Filtrado de los datos
+# 10. Limpieza y filtrado de los datos
 
 Primero se identifican los registros correspondientes al cultivo de café.
 
@@ -170,7 +167,7 @@ cafe = datos[
 ].copy()
 ```
 
-Posteriormente se filtran los registros correspondientes al municipio de Cartago:
+Posteriormente se identifican los registros correspondientes al municipio de Cartago:
 
 ```python
 cartago = cafe[
@@ -178,7 +175,7 @@ cartago = cafe[
 ].copy()
 ```
 
-De esta manera se obtienen los registros históricos del cultivo de café en Cartago.
+De esta manera se obtienen los registros históricos correspondientes al cultivo de café en Cartago.
 
 ---
 
@@ -192,9 +189,9 @@ lista_diccionarios = cartago.to_dict(
 )
 ```
 
-La lista contiene los registros históricos de café correspondientes a Cartago.
+Cada elemento representa un registro mediante un diccionario.
 
-Cada elemento representa un registro mediante un diccionario. Por ejemplo:
+Ejemplo:
 
 ```python
 {
@@ -213,7 +210,7 @@ Esta estructura permite trabajar los registros utilizando estructuras de datos p
 
 # 12. Función creada
 
-Para el análisis se creó una función propia llamada:
+Para el análisis exploratorio se creó una función propia llamada:
 
 ```python
 calcular_estadisticas()
@@ -244,8 +241,6 @@ La función permite obtener:
 * Producción mínima.
 * Desviación estándar.
 
-Esta función es utilizada directamente en el análisis exploratorio del proyecto.
-
 ---
 
 # 13. Análisis exploratorio de datos (EDA)
@@ -261,7 +256,7 @@ np.min()
 np.std()
 ```
 
-Estas funciones permiten analizar estadísticamente la columna:
+Estas funciones permiten analizar estadísticamente la variable:
 
 ```text
 Produccion_toneladas
@@ -276,15 +271,15 @@ correspondiente a los registros de café en Cartago.
 | Producción promedio |  **385.50 toneladas** |
 | Producción máxima   | **1431.00 toneladas** |
 | Producción mínima   |   **80.00 toneladas** |
-| Desviación estándar |  **272.18 toneladas** |
+| Desviación estándar |  **277.80 toneladas** |
 
 ### Interpretación
 
-La producción promedio registrada durante el periodo analizado fue de **385.50 toneladas**.
+La producción promedio registrada durante el periodo analizado fue de aproximadamente **385.50 toneladas**.
 
 La producción máxima registrada fue de **1431 toneladas**, mientras que la mínima fue de **80 toneladas**.
 
-La desviación estándar de **272.18 toneladas** muestra que existen diferencias importantes entre los valores de producción registrados durante los años analizados.
+La desviación estándar de aproximadamente **277.80 toneladas** evidencia una variación importante entre los valores históricos de producción.
 
 ---
 
@@ -294,7 +289,7 @@ Para visualizar el comportamiento histórico de la producción se utiliza **Matp
 
 El gráfico representa la producción de café en Cartago entre los años 2000 y 2024.
 
-El código utilizado incluye:
+Ejemplo del código utilizado:
 
 ```python
 import matplotlib.pyplot as plt
@@ -314,10 +309,8 @@ plt.title(
 
 plt.xlabel("Año")
 plt.ylabel("Producción (toneladas)")
-
 plt.grid(True)
 plt.legend()
-
 plt.tight_layout()
 ```
 
@@ -345,52 +338,147 @@ La menor producción registrada corresponde al año **2023**, con:
 
 **80 toneladas de café.**
 
-### Interpretación
+### Hallazgo 3: Variación histórica
 
-La diferencia entre el valor máximo y el mínimo evidencia una variación importante de la producción de café entre los años analizados.
+Los datos muestran cambios importantes en la producción durante el periodo 2000–2024.
 
-Esta variación es relevante para el proyecto porque demuestra que los datos históricos contienen cambios que posteriormente pueden ser estudiados mediante técnicas de Machine Learning para desarrollar un sistema de predicción.
+La diferencia entre la producción máxima y mínima evidencia que el comportamiento de la producción no es constante.
+
+Esta variabilidad justifica el uso de técnicas de Machine Learning para estudiar la relación entre las variables disponibles y la producción.
 
 ---
 
-# 16. Script principal del análisis
+# 16. Modelo de Machine Learning
 
-El análisis exploratorio se encuentra principalmente en:
+Después del análisis exploratorio se desarrolló un modelo de Machine Learning utilizando:
+
+**Random Forest Regressor**
+
+El objetivo del modelo es estimar:
 
 ```text
-src/eda.py
+Produccion_toneladas
 ```
 
-Este archivo realiza las siguientes actividades:
+a partir de diferentes variables de entrada.
 
-1. Carga el archivo CSV.
-2. Identifica la cantidad de registros y columnas.
-3. Filtra los registros correspondientes al café.
-4. Filtra los registros correspondientes a Cartago.
-5. Convierte las variables numéricas.
-6. Convierte los registros en una lista de diccionarios.
-7. Utiliza la función propia `calcular_estadisticas()`.
-8. Calcula promedio, máximo y mínimo con NumPy.
-9. Calcula la desviación estándar.
-10. Identifica los años de mayor y menor producción.
-11. Genera un gráfico con Matplotlib.
-12. Guarda el gráfico en la carpeta `data`.
+Las variables utilizadas como características son:
 
-Para ejecutar el análisis:
+* `Año`
+* `Hectareas_sembradas`
+* `Hectareas_cosechadas`
+* `Municipio`
 
-```bash
-python src/eda.py
+La variable `Municipio` se transforma mediante **One-Hot Encoding**, generando variables binarias para los municipios presentes en el conjunto de datos.
+
+El modelo final utiliza **42 características de entrada**.
+
+---
+
+# 17. Entrenamiento del modelo
+
+El entrenamiento se realiza en:
+
+```text
+src/entrenar_modelo.py
+```
+
+Para evitar utilizar datos futuros durante el entrenamiento, se realizó una división temporal:
+
+* Datos de **2000 a 2021:** entrenamiento.
+* Datos de **2022 a 2024:** evaluación.
+
+El conjunto de entrenamiento contiene:
+
+**852 registros**
+
+El conjunto de prueba contiene:
+
+**117 registros**
+
+El modelo entrenado se almacena en:
+
+```text
+data/modelo_cafetero.pkl
+```
+
+El archivo contiene tanto el modelo entrenado como las columnas utilizadas durante el entrenamiento.
+
+---
+
+# 18. Evaluación del modelo
+
+El modelo Random Forest fue evaluado utilizando tres métricas:
+
+### MAE
+
+**350.20 toneladas**
+
+El MAE representa el error absoluto medio de las predicciones.
+
+### RMSE
+
+**679.06 toneladas**
+
+El RMSE penaliza con mayor intensidad los errores grandes.
+
+### R²
+
+**0.7157**
+
+El R² indica el nivel de variabilidad de la variable objetivo explicado por el modelo sobre el conjunto de prueba utilizado.
+
+Los resultados corresponden al conjunto de prueba utilizado durante la evaluación y no exclusivamente a los registros de Cartago.
+
+---
+
+# 19. Predicción para Cartago
+
+La predicción se realiza mediante:
+
+```text
+src/predecir.py
+```
+
+El programa solicita:
+
+* Municipio.
+* Año.
+* Hectáreas sembradas.
+* Hectáreas cosechadas.
+
+Para realizar una demostración se utilizó el siguiente escenario:
+
+```text
+Municipio: Cartago
+Año: 2025
+Hectáreas sembradas: 305.76
+Hectáreas cosechadas: 266.05
+```
+
+Las hectáreas utilizadas corresponden a los valores registrados para Cartago en 2024 y se utilizan como referencia para construir el escenario de estimación.
+
+Con estos datos, el modelo obtuvo:
+
+**Producción estimada: 274.88 toneladas**
+
+Es importante aclarar que este valor corresponde a una **estimación generada por el modelo bajo las condiciones de entrada indicadas**, y no representa un dato real observado de producción para 2025.
+
+El gráfico de la predicción se guarda en:
+
+```text
+data/prediccion_cartago.png
 ```
 
 ---
 
-# 17. Estructura del proyecto
+# 20. Estructura del proyecto
 
 La estructura principal del proyecto es:
 
 ```text
 prediccion-cafetera/
-│
+
 ├── data/
 │   ├── produccion_cafetera_valle.csv
 │   ├── cafe_valle_limpio.csv
@@ -420,63 +508,104 @@ prediccion-cafetera/
 
 ---
 
-# 18. Organización de los archivos principales
+# 21. Organización de los archivos principales
 
-### Carpeta `data/`
+## Carpeta `data/`
 
-Contiene los datos utilizados por el proyecto y los resultados gráficos generados durante el análisis.
+Contiene los datos utilizados y algunos resultados generados durante el proyecto.
 
-```text
-produccion_cafetera_valle.csv
-```
+### `produccion_cafetera_valle.csv`
 
 Dataset original utilizado como fuente de información.
 
-```text
-cafe_valle_limpio.csv
-```
+### `cafe_valle_limpio.csv`
 
-Datos procesados utilizados para el análisis.
+Dataset procesado y utilizado para el análisis y desarrollo del modelo.
 
-```text
-eda_cartago_produccion.png
-```
+### `modelo_cafetero.pkl`
 
-Gráfico generado durante el análisis exploratorio.
+Modelo Random Forest entrenado junto con las columnas utilizadas durante el entrenamiento.
 
-Los archivos:
+### `eda_cartago_produccion.png`
 
-```text
-prediccion_cartago.png
-produccion_cartago.png
-modelo_cafetero.pkl
-```
+Gráfico correspondiente al análisis exploratorio de la producción histórica.
 
-corresponden a trabajos complementarios y avances del proyecto relacionados con la etapa posterior de predicción.
+### `prediccion_cartago.png`
+
+Gráfico generado a partir de la estimación realizada para Cartago.
+
+### `produccion_cartago.png`
+
+Gráfico complementario utilizado para visualizar información de producción de Cartago.
 
 ---
 
-# 19. Control de versiones
+# 22. Organización de los scripts
+
+### `limpiar_datos.py`
+
+Realiza el procesamiento y limpieza inicial de los datos.
+
+### `revisar_datos.py`
+
+Permite revisar la estructura y contenido del dataset.
+
+### `analizar_datos.py`
+
+Realiza análisis sobre los datos procesados.
+
+### `eda.py`
+
+Realiza el análisis exploratorio, estadísticas y visualización de los datos de Cartago.
+
+### `preparar_datos.py`
+
+Prepara las variables necesarias para el desarrollo del modelo.
+
+### `entrenar_modelo.py`
+
+Entrena y evalúa el modelo Random Forest.
+
+### `predecir.py`
+
+Carga el modelo entrenado y realiza estimaciones de producción.
+
+### `graficar_produccion.py`
+
+Genera visualizaciones relacionadas con la producción.
+
+### `main.py`
+
+Archivo reservado para la integración principal del proyecto.
+
+---
+
+# 23. Control de versiones
 
 El proyecto utiliza **Git y GitHub** para llevar el control de versiones.
 
-Durante el desarrollo se realizan commits para registrar avances importantes del proyecto, como:
+Durante el desarrollo se realizaron commits para registrar avances importantes, como:
 
 * Organización inicial del proyecto.
 * Incorporación y limpieza de los datos.
 * Desarrollo del análisis exploratorio.
 * Generación de estadísticas y gráficos.
-* Preparación de las siguientes etapas del modelo.
+* Preparación de las variables del modelo.
+* Entrenamiento del modelo de Machine Learning.
+* Evaluación del modelo.
+* Implementación de la predicción.
 
-El repositorio del proyecto se encuentra en GitHub:
+Repositorio:
 
-**Proyecto-IA---Monica-Parra**
+```text
+Proyecto-IA---Monica-Parra
+```
 
 ---
 
-# 20. Ejecución del proyecto
+# 24. Ejecución del proyecto
 
-Para ejecutar el análisis localmente se deben instalar las dependencias del proyecto.
+Para ejecutar el proyecto localmente se deben instalar las dependencias.
 
 ### Instalar dependencias
 
@@ -484,56 +613,78 @@ Para ejecutar el análisis localmente se deben instalar las dependencias del pro
 pip install -r requirements.txt
 ```
 
-### Ejecutar el análisis exploratorio
+### Ejecutar análisis exploratorio
 
 ```bash
 python src/eda.py
 ```
 
-Al ejecutar el script se muestran en la terminal:
+### Entrenar el modelo
 
-* Cantidad de registros.
-* Cantidad de columnas.
-* Registros de café.
-* Registros de café en Cartago.
-* Lista de diccionarios.
-* Promedio.
-* Máximo.
-* Mínimo.
-* Desviación estándar.
-* Hallazgos principales.
-
-También se genera el gráfico:
-
-```text
-data/eda_cartago_produccion.png
+```bash
+python src/entrenar_modelo.py
 ```
 
----
+### Realizar una predicción
 
-# 21. Próximos pasos
+```bash
+python src/predecir.py
+```
 
-Para el siguiente corte se continuará con el desarrollo del sistema de Inteligencia Artificial.
-
-Los próximos pasos son:
-
-1. Preparar las variables que serán utilizadas por el modelo.
-2. Seleccionar las características más relevantes de los datos.
-3. Dividir los datos para entrenamiento y evaluación.
-4. Entrenar un modelo de Machine Learning.
-5. Evaluar el rendimiento del modelo mediante métricas.
-6. Comparar los resultados obtenidos.
-7. Realizar predicciones de producción de café para Cartago.
-8. Mejorar el modelo a partir de los resultados obtenidos.
-
-La etapa de análisis exploratorio desarrollada en este primer avance constituye la base para estas siguientes fases.
+El programa solicita los datos de entrada y posteriormente muestra la producción estimada.
 
 ---
 
-# 22. Conclusión del primer avance
+# 25. Resultados principales del proyecto
 
-En este primer avance se logró trabajar con **datos agrícolas reales**, realizar su carga y procesamiento mediante Python, filtrar la información correspondiente al cultivo de café en Cartago, convertir los registros en una lista de diccionarios y crear una función propia para el cálculo de estadísticas.
+Los principales resultados obtenidos son:
 
-También se realizó un análisis exploratorio utilizando **NumPy** y se generó una visualización mediante **Matplotlib**.
+| Resultado                    |                Valor |
+| ---------------------------- | -------------------: |
+| Registros de café            |              **969** |
+| Registros de Cartago         |               **25** |
+| Periodo analizado            |        **2000–2024** |
+| Producción promedio          | **385.50 toneladas** |
+| Producción máxima            |   **1431 toneladas** |
+| Producción mínima            |     **80 toneladas** |
+| Desviación estándar          | **277.80 toneladas** |
+| Registros de entrenamiento   |              **852** |
+| Registros de prueba          |              **117** |
+| Características del modelo   |               **42** |
+| MAE                          | **350.20 toneladas** |
+| RMSE                         | **679.06 toneladas** |
+| R²                           |           **0.7157** |
+| Estimación de escenario 2025 | **274.88 toneladas** |
 
-Los resultados permitieron identificar variaciones importantes en la producción histórica de café en Cartago, proporcionando una base para continuar con la construcción del modelo de Inteligencia Artificial en el siguiente corte.
+---
+
+# 26. Próximos pasos
+
+Para continuar mejorando el sistema se plantean las siguientes actividades:
+
+1. Analizar nuevas variables que puedan aportar información al modelo.
+2. Evaluar otros algoritmos de Machine Learning.
+3. Comparar diferentes modelos mediante las mismas métricas.
+4. Realizar ajuste de hiperparámetros.
+5. Analizar con mayor profundidad los errores de las predicciones.
+6. Incorporar nuevas variables agrícolas si se encuentran disponibles.
+7. Mejorar la interfaz de entrada y presentación de resultados.
+8. Continuar validando el modelo con nuevos datos.
+
+---
+
+# 27. Conclusión
+
+En este proyecto se trabajó con **datos agrícolas reales del Valle del Cauca** para analizar el comportamiento histórico de la producción de café en Cartago.
+
+Inicialmente se realizó la carga, limpieza y organización de los datos mediante Python. Posteriormente se filtraron los registros correspondientes al cultivo de café y al municipio de Cartago.
+
+Durante el análisis exploratorio se utilizaron **listas, diccionarios, Pandas, NumPy y Matplotlib**, permitiendo obtener estadísticas y visualizar el comportamiento histórico de la producción.
+
+Posteriormente se desarrolló un modelo de **Random Forest Regressor**, utilizando información relacionada con el año, las hectáreas sembradas, las hectáreas cosechadas y el municipio.
+
+El modelo obtuvo un **MAE de 350.20 toneladas, un RMSE de 679.06 toneladas y un R² de 0.7157** sobre el conjunto de prueba utilizado.
+
+Finalmente, se implementó una etapa de estimación para Cartago. Utilizando como escenario para 2025 las variables de 305.76 hectáreas sembradas y 266.05 hectáreas cosechadas, el modelo estimó una producción de **274.88 toneladas**.
+
+Estos resultados constituyen una primera versión del sistema y permiten continuar trabajando en la mejora del modelo, la incorporación de nuevas variables y la evaluación de diferentes algoritmos de Machine Learning.

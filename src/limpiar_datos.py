@@ -1,9 +1,5 @@
 import pandas as pd
 
-# ==========================================
-# LIMPIEZA DE DATOS
-# Proyecto: Predicción de Producción Cafetera
-# ==========================================
 
 ARCHIVO_ORIGINAL = "data/produccion_cafetera_valle.csv"
 ARCHIVO_LIMPIO = "data/cafe_valle_limpio.csv"

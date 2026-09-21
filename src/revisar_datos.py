@@ -2,7 +2,6 @@ import pandas as pd
 
 ARCHIVO = "data/produccion_cafetera_valle.csv"
 
-# Intentar cargar el archivo con diferentes codificaciones
 try:
     datos = pd.read_csv(ARCHIVO, sep=";", encoding="utf-8")
 except UnicodeDecodeError:

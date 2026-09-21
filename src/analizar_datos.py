@@ -1,10 +1,5 @@
 import pandas as pd
 
-# ==========================================
-# ANALISIS EXPLORATORIO DE DATOS
-# Proyecto: Predicción de Producción Cafetera
-# ==========================================
-
 ARCHIVO = "data/produccion_cafetera_valle.csv"
 
 

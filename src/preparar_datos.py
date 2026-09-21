@@ -1,9 +1,5 @@
 import pandas as pd
 
-# ==========================================
-# PREPARACIÓN DE DATOS PARA MACHINE LEARNING
-# Proyecto: Predicción de Producción Cafetera
-# ==========================================
 
 ARCHIVO = "data/cafe_valle_limpio.csv"
 
